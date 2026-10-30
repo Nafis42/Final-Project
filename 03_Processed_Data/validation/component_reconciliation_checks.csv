@@ -1,0 +1,219 @@
+dataset,financial_year,check_description,reported_total,calculated_sum,discrepancy,status,notes
+annual_crude_oil_production,FY 1998-99,PSU Total: ONGC + OIL == PSU Total,29.73,29.73,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 1998-99,Total Crude: PSU Total + Private/JVC == Total Crude,32.76,32.76,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 1998-99,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),32.76,32.76,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 1999-00,PSU Total: ONGC + OIL == PSU Total,27.98,27.98,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 1999-00,Total Crude: PSU Total + Private/JVC == Total Crude,32.0,32.0,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 1999-00,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),32.0,32.0,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 2000-01,PSU Total: ONGC + OIL == PSU Total,28.36,28.36,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2000-01,Total Crude: PSU Total + Private/JVC == Total Crude,32.45,32.45,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2000-01,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),32.45,32.45,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 2001-02,PSU Total: ONGC + OIL == PSU Total,27.883,27.883,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2001-02,Total Crude: PSU Total + Private/JVC == Total Crude,32.025,32.025,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2001-02,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),32.025,32.025,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 2002-03,PSU Total: ONGC + OIL == PSU Total,28.99,28.99,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2002-03,Total Crude: PSU Total + Private/JVC == Total Crude,33.0768,33.0768,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2002-03,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),33.0768,33.0768,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 2003-04,PSU Total: ONGC + OIL == PSU Total,29.058,29.058,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2003-04,Total Crude: PSU Total + Private/JVC == Total Crude,33.372,33.372,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2003-04,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),33.372,33.372,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 2004-05,PSU Total: ONGC + OIL == PSU Total,29.8377,29.8377,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2004-05,Total Crude: PSU Total + Private/JVC == Total Crude,34.1381,34.1381,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2004-05,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),34.1381,34.1381,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 2005-06,PSU Total: ONGC + OIL == PSU Total,27.6482,27.6482,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2005-06,Total Crude: PSU Total + Private/JVC == Total Crude,32.2004,32.2004,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2005-06,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),32.2004,32.2004,0.0,PASS,Before 2006-07 condensate was included in crude oil.
+annual_crude_oil_production,FY 2006-07,PSU Total: ONGC + OIL == PSU Total,27.2702,27.2702,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2006-07,Total Crude: PSU Total + Private/JVC == Total Crude,31.9669,31.9669,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2006-07,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),33.9801,33.9801,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2007-08,PSU Total: ONGC + OIL == PSU Total,27.0308,27.0308,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2007-08,Total Crude: PSU Total + Private/JVC == Total Crude,31.8668,31.866799999999998,3.552713678800501e-15,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2007-08,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),34.1147,34.1147,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2008-09,PSU Total: ONGC + OIL == PSU Total,26.8166,26.8166,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2008-09,Total Crude: PSU Total + Private/JVC == Total Crude,31.1999,31.1999,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2008-09,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),33.3253,33.3254,0.00010000000000331966,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2009-10,PSU Total: ONGC + OIL == PSU Total,26.3026,26.302599999999998,3.552713678800501e-15,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2009-10,Total Crude: PSU Total + Private/JVC == Total Crude,31.3624,31.3624,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2009-10,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),33.3984,33.3984,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2010-11,PSU Total: ONGC + OIL == PSU Total,26.0788,26.078799999999998,3.552713678800501e-15,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2010-11,Total Crude: PSU Total + Private/JVC == Total Crude,35.5914,35.5914,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2010-11,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),37.6938,37.6939,9.999999999621423e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2011-12,PSU Total: ONGC + OIL == PSU Total,25.6028,25.6027,9.999999999976694e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2011-12,Total Crude: PSU Total + Private/JVC == Total Crude,35.9264,35.9264,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2011-12,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),38.0822,38.0822,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2012-13,PSU Total: ONGC + OIL == PSU Total,24.203,24.203,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2012-13,Total Crude: PSU Total + Private/JVC == Total Crude,35.718,35.718,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2012-13,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),37.9191,37.9191,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2013-14,PSU Total: ONGC + OIL == PSU Total,23.9301,23.9301,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2013-14,Total Crude: PSU Total + Private/JVC == Total Crude,35.8892,35.8892,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2013-14,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),37.8122,37.812200000000004,7.105427357601002e-15,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2014-15,PSU Total: ONGC + OIL == PSU Total,24.2468,24.2468,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2014-15,Total Crude: PSU Total + Private/JVC == Total Crude,35.8986,35.8987,9.999999999621423e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2014-15,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),37.4691,37.469,9.999999999621423e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2015-16,PSU Total: ONGC + OIL == PSU Total,24.3067,24.3067,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2015-16,Total Crude: PSU Total + Private/JVC == Total Crude,35.4997,35.4997,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2015-16,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),36.9418,36.9418,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2016-17,PSU Total: ONGC + OIL == PSU Total,24.1131,24.1131,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2016-17,Total Crude: PSU Total + Private/JVC == Total Crude,34.5011,34.5011,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2016-17,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),36.0088,36.0088,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2017-18,PSU Total: ONGC + OIL == PSU Total,24.1713,24.171300000000002,3.552713678800501e-15,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2017-18,Total Crude: PSU Total + Private/JVC == Total Crude,34.0453,34.0453,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2017-18,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),35.6843,35.6844,9.999999999621423e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2018-19,PSU Total: ONGC + OIL == PSU Total,22.8502,22.850099999999998,0.00010000000000331966,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2018-19,Total Crude: PSU Total + Private/JVC == Total Crude,32.4745,32.4745,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2018-19,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),34.2033,34.2033,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2019-20,PSU Total: ONGC + OIL == PSU Total,22.3502,22.3502,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2019-20,Total Crude: PSU Total + Private/JVC == Total Crude,30.5233,30.5233,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2019-20,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),32.1693,32.1692,0.00010000000000331966,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2020-21,PSU Total: ONGC + OIL == PSU Total,22.0185,22.0185,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2020-21,Total Crude: PSU Total + Private/JVC == Total Crude,29.1213,29.1214,9.999999999976694e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2020-21,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),30.4941,30.494,9.999999999976694e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2021-22,PSU Total: ONGC + OIL == PSU Total,21.4966,21.496599999999997,3.552713678800501e-15,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2021-22,Total Crude: PSU Total + Private/JVC == Total Crude,28.4477,28.4477,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2021-22,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),29.6884,29.6885,9.999999999976694e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2022-23,PSU Total: ONGC + OIL == PSU Total,21.6047,21.6047,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2022-23,Total Crude: PSU Total + Private/JVC == Total Crude,27.8274,27.8273,9.999999999976694e-05,PASS,Difference: 0.000100 MMT
+annual_crude_oil_production,FY 2022-23,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),29.1787,29.1787,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2023-24,PSU Total: ONGC + OIL == PSU Total,21.4835,21.4835,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2023-24,Total Crude: PSU Total + Private/JVC == Total Crude,27.1684,27.1684,0.0,PASS,Difference: 0.000000 MMT
+annual_crude_oil_production,FY 2023-24,Grand Total: Total Crude + Condensate == Total (Crude+Condensate),29.3564,29.356399999999997,3.552713678800501e-15,PASS,Difference: 0.000000 MMT
+annual_refinery_crude_processing,1998-99,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,68539.0,68539.0,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,1999-00,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,85709.0,85709.0,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2000-01,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,103108.0,103108.0,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2001-02,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,106540.773,106540.77300000002,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2002-03,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,110581.0342,110581.0342,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2003-04,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,118680.0,118680.0,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2004-05,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,124302.275,124302.27500000001,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2005-06,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,126986.164,126986.16399999999,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2006-07,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,141463.0,141463.0,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2007-08,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,150805.667,150805.667,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2008-09,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,160710.461,160710.46099999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2009-10,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,186562.325,186562.32499999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2010-11,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,196485.2821,196485.28220000002,0.00010000000474974513,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2011-12,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,203757.1521,203757.15209999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2012-13,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,218847.4365,218847.4366,9.999997564591467e-05,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2013-14,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,222452.6755,222452.67549999995,5.820766091346741e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2014-15,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,223263.9974,223263.9974,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2015-16,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,232865.8126,232865.8126,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2016-17,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,245366.1019,245366.10189999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2017-18,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,251934.8166,251934.8165,0.00010000000474974513,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2018-19,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,257204.854,257204.85390000002,9.999997564591467e-05,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2019-20,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,254385.8234,254385.82350000003,0.00010000003385357559,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2020-21,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,221773.1959,221773.196,0.00010000000474974513,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2021-22,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,241703.6454,241703.6454,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2022-23,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,255232.1216,255232.12159999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2023-24,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,261546.0074,261546.00749999998,9.999997564591467e-05,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2024-25,Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,268613.3268,268613.3268,0.0,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2025-26 (P),Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,271991.1811,271991.18110000005,5.820766091346741e-11,PASS,Difference: 0.0000 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_refinery_crude_processing,2026-27 (Till June) (P),Refinery Throughput Reconciliation: Sum of Company Totals & Standalone Refineries vs Grand Total,65694.8812,65694.8813,9.99999901978299e-05,PASS,Difference: 0.0001 TMT (BORL amalgamated into BPCL Bina in 2022).
+annual_petroleum_product_production,FY 1998-99,Product Production: Sum of 12 Products == Reported Total,68409.0,68409.0,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 1999-00,Product Production: Sum of 12 Products == Reported Total,82936.0,82936.0,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2000-01,Product Production: Sum of 12 Products == Reported Total,99578.0,99578.0,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2001-02,Product Production: Sum of 12 Products == Reported Total,104343.0,104343.0,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2002-03,Product Production: Sum of 12 Products == Reported Total,108674.0,108674.0,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2003-04,Product Production: Sum of 12 Products == Reported Total,117640.0,117640.0,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2004-05,Product Production: Sum of 12 Products == Reported Total,123277.045,123277.045,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2005-06,Product Production: Sum of 12 Products == Reported Total,124618.0005,124618.0004,9.99999901978299e-05,PASS,Difference: 0.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2006-07,Product Production: Sum of 12 Products == Reported Total,140618.1443,140618.1442,0.00010000000474974513,PASS,Difference: 0.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2007-08,Product Production: Sum of 12 Products == Reported Total,150412.2883,150412.28830000001,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2008-09,Product Production: Sum of 12 Products == Reported Total,157933.027,157933.027,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2009-10,Product Production: Sum of 12 Products == Reported Total,185533.315,185533.315,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2010-11,Product Production: Sum of 12 Products == Reported Total,196171.2663,196171.2665,0.00020000000949949026,PASS,Difference: 0.0002 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2011-12,Product Production: Sum of 12 Products == Reported Total,204453.1618,204453.1618,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2012-13,Product Production: Sum of 12 Products == Reported Total,218247.7145,218247.7145,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2013-14,Product Production: Sum of 12 Products == Reported Total,220740.3551,220740.35510000002,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2014-15,Product Production: Sum of 12 Products == Reported Total,221076.8556,221076.8557,9.999997564591467e-05,PASS,Difference: 0.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2015-16,Product Production: Sum of 12 Products == Reported Total,231866.4901,231866.4901,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2016-17,Product Production: Sum of 12 Products == Reported Total,243514.9055,243514.9055,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2017-18,Product Production: Sum of 12 Products == Reported Total,254288.5026,254288.5026,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2018-19,Product Production: Sum of 12 Products == Reported Total,262356.2191,262356.219,0.00010000000474974513,PASS,Difference: 0.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2019-20,Product Production: Sum of 12 Products == Reported Total,262940.2895,262940.2895,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2020-21,Product Production: Sum of 12 Products == Reported Total,233513.0325,233513.0324,0.00010000000474974513,PASS,Difference: 0.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2021-22,Product Production: Sum of 12 Products == Reported Total,254305.574,254305.574,0.0,PASS,Difference: 0.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2022-23,Product Production: Sum of 12 Products == Reported Total,266539.1468,266539.1469,0.00010000000474974513,PASS,Difference: 0.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2023-24,Product Production: Sum of 12 Products == Reported Total,276057.9878,276057.9877,0.00010000000474974513,PASS,Difference: 0.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2024-25,Product Production: Sum of 12 Products == Reported Total,283771.1919,283770.19190000003,0.9999999999417923,PASS,Difference: 1.0000 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_product_production,FY 2025-26,Product Production: Sum of 12 Products == Reported Total,139648.589,139647.5889,1.0001000000047497,PASS,Difference: 1.0001 TMT (FY 2025-26 H1 has minor 1 TMT integer rounding in Others).
+annual_petroleum_trade_volumes,FY 1998-99,Total Imports: Crude Imports + Product Imports == Total Imports,63579.0,63579.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 1998-99,Net Imports: Total Imports - Total Product Exports == Net Imports,62859.0,62859.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 1999-20,Total Imports: Crude Imports + Product Imports == Total Imports,74412.0,74412.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 1999-20,Net Imports: Total Imports - Total Product Exports == Net Imports,73666.0,73666.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2000-01,Total Imports: Crude Imports + Product Imports == Total Imports,83364.0,83364.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2000-01,Net Imports: Total Imports - Total Product Exports == Net Imports,74999.0,74999.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2001-02,Total Imports: Crude Imports + Product Imports == Total Imports,85715.0,85715.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2001-02,Net Imports: Total Imports - Total Product Exports == Net Imports,75630.0,75630.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2002-03,Total Imports: Crude Imports + Product Imports == Total Imports,89217.0,89217.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2002-03,Net Imports: Total Imports - Total Product Exports == Net Imports,78928.0,78928.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2003-04,Total Imports: Crude Imports + Product Imports == Total Imports,98435.0,98435.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2003-04,Net Imports: Total Imports - Total Product Exports == Net Imports,83815.0,83815.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2004-05,Total Imports: Crude Imports + Product Imports == Total Imports,104689.0,104689.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2004-05,Net Imports: Total Imports - Total Product Exports == Net Imports,86478.0,86478.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2005-06,Total Imports: Crude Imports + Product Imports == Total Imports,112850.0,112850.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2005-06,Net Imports: Total Imports - Total Product Exports == Net Imports,89390.0,89390.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2006-07,Total Imports: Crude Imports + Product Imports == Total Imports,129162.0,129162.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2006-07,Net Imports: Total Imports - Total Product Exports == Net Imports,95538.0,95538.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2007-08,Total Imports: Crude Imports + Product Imports == Total Imports,144134.0,144134.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2007-08,Net Imports: Total Imports - Total Product Exports == Net Imports,103355.0,103355.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2008-09,Total Imports: Crude Imports + Product Imports == Total Imports,151360.1874,151360.1874,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2008-09,Net Imports: Total Imports - Total Product Exports == Net Imports,112415.7874,112415.7874,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2009-10,Total Imports: Crude Imports + Product Imports == Total Imports,173924.0,173924.0,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2009-10,Net Imports: Total Imports - Total Product Exports == Net Imports,122769.081,122769.081,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2010-11,Total Imports: Crude Imports + Product Imports == Total Imports,180974.4413,180974.4413,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2010-11,Net Imports: Total Imports - Total Product Exports == Net Imports,121897.3483,121897.34830000001,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2011-12,Total Imports: Crude Imports + Product Imports == Total Imports,187578.5245,187578.5245,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2011-12,Net Imports: Total Imports - Total Product Exports == Net Imports,126741.184,126741.18400000001,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2012-13,Total Imports: Crude Imports + Product Imports == Total Imports,201149.3675,201149.3676,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_trade_volumes,FY 2012-13,Net Imports: Total Imports - Total Product Exports == Net Imports,137741.6056,137741.6055,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_trade_volumes,FY 2013-14,Total Imports: Crude Imports + Product Imports == Total Imports,205935.2065,205935.2065,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2013-14,Net Imports: Total Imports - Total Product Exports == Net Imports,138071.1918,138071.1918,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2014-15,Total Imports: Crude Imports + Product Imports == Total Imports,210736.0181,210736.0181,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2014-15,Net Imports: Total Imports - Total Product Exports == Net Imports,146804.1611,146804.16109999997,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2015-16,Total Imports: Crude Imports + Product Imports == Total Imports,232306.2459,232306.2459,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2015-16,Net Imports: Total Imports - Total Product Exports == Net Imports,171767.6837,171767.6837,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2016-17,Total Imports: Crude Imports + Product Imports == Total Imports,250219.0555,250219.05539999998,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_trade_volumes,FY 2016-17,Net Imports: Total Imports - Total Product Exports == Net Imports,184705.586,184705.58599999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2017-18,Total Imports: Crude Imports + Product Imports == Total Imports,255893.6269,255893.62689999997,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2017-18,Net Imports: Total Imports - Total Product Exports == Net Imports,189060.8975,189060.89750000002,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2018-19,Total Imports: Crude Imports + Product Imports == Total Imports,259845.9407,259845.9407,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2018-19,Net Imports: Total Imports - Total Product Exports == Net Imports,198750.2079,198750.2079,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2019-20,Total Imports: Crude Imports + Product Imports == Total Imports,270742.2763,270742.2763,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2019-20,Net Imports: Total Imports - Total Product Exports == Net Imports,205057.0401,205057.04010000004,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2020-21,Total Imports: Crude Imports + Product Imports == Total Imports,239708.5241,239708.524,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_trade_volumes,FY 2020-21,Net Imports: Total Imports - Total Product Exports == Net Imports,182939.8237,182939.8237,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2021-22,Total Imports: Crude Imports + Product Imports == Total Imports,251398.3038,251398.3037,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_trade_volumes,FY 2021-22,Net Imports: Total Imports - Total Product Exports == Net Imports,188643.7625,188643.7625,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2022-23,Total Imports: Crude Imports + Product Imports == Total Imports,277298.2853,277298.2854,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_trade_volumes,FY 2022-23,Net Imports: Total Imports - Total Product Exports == Net Imports,216283.3488,216283.34879999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2023-24,Total Imports: Crude Imports + Product Imports == Total Imports,282954.4045,282954.4046,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_trade_volumes,FY 2023-24,Net Imports: Total Imports - Total Product Exports == Net Imports,220361.538,220361.538,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2024-25,Total Imports: Crude Imports + Product Imports == Total Imports,294127.9892,294127.9892,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_trade_volumes,FY 2024-25,Net Imports: Total Imports - Total Product Exports == Net Imports,229052.299,229052.299,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 1997-98,Product Consumption: Sum of 12 Products == Reported Total,80357.8366,80357.8366,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 1998-99,Product Consumption: Sum of 12 Products == Reported Total,84759.4946,84759.4945,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 1999-00,Product Consumption: Sum of 12 Products == Reported Total,90635.573,90635.5729,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2000-01,Product Consumption: Sum of 12 Products == Reported Total,89960.491,89960.4909,9.99999901978299e-05,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2001-02,Product Consumption: Sum of 12 Products == Reported Total,89054.6962,89054.69619999999,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2002-03,Product Consumption: Sum of 12 Products == Reported Total,90068.046,90068.0459,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2003-04,Product Consumption: Sum of 12 Products == Reported Total,92130.3751,92130.3751,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2004-05,Product Consumption: Sum of 12 Products == Reported Total,94592.9536,94592.95360000001,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2005-06,Product Consumption: Sum of 12 Products == Reported Total,113213.5133,113213.5135,0.00019999999494757503,PASS,Difference: 0.0002 TMT
+annual_petroleum_product_consumption,FY 2006-07,Product Consumption: Sum of 12 Products == Reported Total,120749.1368,120749.13680000001,1.4551915228366852e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2007-08,Product Consumption: Sum of 12 Products == Reported Total,128946.148,128946.148,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2008-09,Product Consumption: Sum of 12 Products == Reported Total,133599.2889,133599.28889999999,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2009-10,Product Consumption: Sum of 12 Products == Reported Total,137806.5206,137806.5207,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2010-11,Product Consumption: Sum of 12 Products == Reported Total,141040.0797,141040.0796,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2011-12,Product Consumption: Sum of 12 Products == Reported Total,148132.2054,148132.2055,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2012-13,Product Consumption: Sum of 12 Products == Reported Total,157057.0219,157057.0218,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2013-14,Product Consumption: Sum of 12 Products == Reported Total,158406.8535,158406.8533,0.00020000000949949026,PASS,Difference: 0.0002 TMT
+annual_petroleum_product_consumption,FY 2014-15,Product Consumption: Sum of 12 Products == Reported Total,165520.1181,165520.1179,0.0001999999803956598,PASS,Difference: 0.0002 TMT
+annual_petroleum_product_consumption,FY 2015-16,Product Consumption: Sum of 12 Products == Reported Total,184673.9028,184673.9029,9.999997564591467e-05,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2016-17,Product Consumption: Sum of 12 Products == Reported Total,194597.2674,194597.26739999998,2.9103830456733704e-11,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2017-18,Product Consumption: Sum of 12 Products == Reported Total,206166.1668,206166.16689999998,9.999997564591467e-05,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2018-19,Product Consumption: Sum of 12 Products == Reported Total,213216.2592,213216.2593,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2019-20,Product Consumption: Sum of 12 Products == Reported Total,214126.6264,214126.6263,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2020-21,Product Consumption: Sum of 12 Products == Reported Total,194295.3218,194295.3219,0.00010000000474974513,PASS,Difference: 0.0001 TMT
+annual_petroleum_product_consumption,FY 2021-22,Product Consumption: Sum of 12 Products == Reported Total,201696.6577,201696.6577,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2022-23,Product Consumption: Sum of 12 Products == Reported Total,223021.8304,223021.8304,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2023-24,Product Consumption: Sum of 12 Products == Reported Total,234258.7041,234258.7041,0.0,PASS,Difference: 0.0000 TMT
+annual_petroleum_product_consumption,FY 2024-25,Product Consumption: Sum of 12 Products == Reported Total,239221.4768,239221.4766,0.00020000000949949026,PASS,Difference: 0.0002 TMT
+annual_petroleum_product_consumption,FY 2025-26,Product Consumption: Sum of 12 Products == Reported Total,243202.1804,243202.1803,0.00010000000474974513,PASS,Difference: 0.0001 TMT

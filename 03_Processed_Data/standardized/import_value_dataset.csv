@@ -1,0 +1,352 @@
+financial_year,fiscal_year_start,fiscal_year_end,product_standardized_name,product_original_label,commodity_category,value_million_usd,value_rs_crore,is_provisional,notes
+FY 1998-99,1998,1999,Crude Oil,CRUDE OIL$,Crude Oil,3518.0,14917.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 1998-99,1998,1999,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,300.0,1273.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 1998-99,1998,1999,Motor Spirit (Petrol / MS),MS,Petroleum Product,45.0,191.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 1998-99,1998,1999,Naphtha,Naphtha,Petroleum Product,315.0,1336.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 1998-99,1998,1999,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 1998-99,1998,1999,Superior Kerosene Oil (SKO),SKO,Petroleum Product,923.0,3912.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 1998-99,1998,1999,High Speed Diesel (HSD),HSD,Petroleum Product,1134.0,4808.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 1998-99,1998,1999,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,35.0,148.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 1998-99,1998,1999,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,142.0,602.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 1998-99,1998,1999,Bitumen,Bitumen,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 1998-99,1998,1999,Others,Others&,Petroleum Product,1.0,4.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 1998-99,1998,1999,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,2895.0,12274.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 1998-99,1998,1999,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,6413.0,27191.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 1999-00,1999,2000,Crude Oil,CRUDE OIL$,Crude Oil,9210.0,40028.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 1999-00,1999,2000,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,414.0,1801.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 1999-00,1999,2000,Motor Spirit (Petrol / MS),MS,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 1999-00,1999,2000,Naphtha,Naphtha,Petroleum Product,452.0,1965.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 1999-00,1999,2000,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 1999-00,1999,2000,Superior Kerosene Oil (SKO),SKO,Petroleum Product,1276.0,5544.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 1999-00,1999,2000,High Speed Diesel (HSD),HSD,Petroleum Product,854.0,3713.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 1999-00,1999,2000,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,68.0,294.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 1999-00,1999,2000,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,199.0,865.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 1999-00,1999,2000,Bitumen,Bitumen,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 1999-00,1999,2000,Others,Others&,Petroleum Product,1.0,4.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 1999-00,1999,2000,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,3264.0,14186.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 1999-00,1999,2000,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,12474.0,54214.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2000-01,2000,2001,Crude Oil,CRUDE OIL$,Crude Oil,14403.0,65932.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2000-01,2000,2001,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,291.0,1332.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2000-01,2000,2001,Motor Spirit (Petrol / MS),MS,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2000-01,2000,2001,Naphtha,Naphtha,Petroleum Product,897.0,4106.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2000-01,2000,2001,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2000-01,2000,2001,Superior Kerosene Oil (SKO),SKO,Petroleum Product,521.0,2386.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2000-01,2000,2001,High Speed Diesel (HSD),HSD,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2000-01,2000,2001,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,123.0,563.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2000-01,2000,2001,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,286.0,1309.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2000-01,2000,2001,Bitumen,Bitumen,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2000-01,2000,2001,Others,Others&,Petroleum Product,524.0,2397.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2000-01,2000,2001,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,2642.0,12093.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2000-01,2000,2001,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,17045.0,78025.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2001-02,2001,2002,Crude Oil,CRUDE OIL$,Crude Oil,12635.0,60397.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2001-02,2001,2002,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,168.0,810.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2001-02,2001,2002,Motor Spirit (Petrol / MS),MS,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2001-02,2001,2002,Naphtha,Naphtha,Petroleum Product,724.0,3477.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2001-02,2001,2002,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2001-02,2001,2002,Superior Kerosene Oil (SKO),SKO,Petroleum Product,81.0,388.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2001-02,2001,2002,High Speed Diesel (HSD),HSD,Petroleum Product,6.0,28.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2001-02,2001,2002,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,123.0,588.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2001-02,2001,2002,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,306.0,1466.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2001-02,2001,2002,Bitumen,Bitumen,Petroleum Product,1.0,5.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2001-02,2001,2002,Others,Others&,Petroleum Product,102.0,487.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2001-02,2001,2002,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,1511.0,7249.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2001-02,2001,2002,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,14146.0,67646.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2002-03,2002,2003,Crude Oil,CRUDE OIL$,Crude Oil,15759.0,76195.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2002-03,2002,2003,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,388.0,1867.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2002-03,2002,2003,Motor Spirit (Petrol / MS),MS,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2002-03,2002,2003,Naphtha,Naphtha,Petroleum Product,729.0,3551.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2002-03,2002,2003,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2002-03,2002,2003,Superior Kerosene Oil (SKO),SKO,Petroleum Product,166.0,808.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2002-03,2002,2003,High Speed Diesel (HSD),HSD,Petroleum Product,24.0,119.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2002-03,2002,2003,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,108.0,526.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2002-03,2002,2003,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,403.0,1959.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2002-03,2002,2003,Bitumen,Bitumen,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2002-03,2002,2003,Others,Others&,Petroleum Product,4.0,17.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2002-03,2002,2003,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,1822.0,8847.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2002-03,2002,2003,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,17581.0,85042.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2003-04,2003,2004,Crude Oil,CRUDE OIL$,Crude Oil,18268.0,83528.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2003-04,2003,2004,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,561.0,2558.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2003-04,2003,2004,Motor Spirit (Petrol / MS),MS,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2003-04,2003,2004,Naphtha,Naphtha,Petroleum Product,626.0,2884.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2003-04,2003,2004,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2003-04,2003,2004,Superior Kerosene Oil (SKO),SKO,Petroleum Product,191.0,890.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2003-04,2003,2004,High Speed Diesel (HSD),HSD,Petroleum Product,25.0,116.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2003-04,2003,2004,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,213.0,982.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2003-04,2003,2004,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,337.0,1550.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2003-04,2003,2004,Bitumen,Bitumen,Petroleum Product,1.0,5.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2003-04,2003,2004,Others,Others&,Petroleum Product,160.0,738.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2003-04,2003,2004,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,2114.0,9723.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2003-04,2003,2004,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,20382.0,93251.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2004-05,2004,2005,Crude Oil,CRUDE OIL$,Crude Oil,25990.0,117003.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2004-05,2004,2005,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,998.0,4413.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2004-05,2004,2005,Motor Spirit (Petrol / MS),MS,Petroleum Product,114.0,501.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2004-05,2004,2005,Naphtha,Naphtha,Petroleum Product,841.0,4029.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2004-05,2004,2005,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2004-05,2004,2005,Superior Kerosene Oil (SKO),SKO,Petroleum Product,98.0,429.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2004-05,2004,2005,High Speed Diesel (HSD),HSD,Petroleum Product,361.0,1604.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2004-05,2004,2005,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,215.0,963.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2004-05,2004,2005,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,374.0,1704.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2004-05,2004,2005,Bitumen,Bitumen,Petroleum Product,4.0,17.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2004-05,2004,2005,Others,Others&,Petroleum Product,273.0,1227.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2004-05,2004,2005,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,3278.0,14887.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2004-05,2004,2005,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,29268.0,131890.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2005-06,2005,2006,Crude Oil,CRUDE OIL$,Crude Oil,38776.0,171702.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2005-06,2005,2006,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,1575.0,7042.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2005-06,2005,2006,Motor Spirit (Petrol / MS),MS,Petroleum Product,293.0,1286.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2005-06,2005,2006,Naphtha,Naphtha,Petroleum Product,1209.0,5400.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2005-06,2005,2006,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2005-06,2005,2006,Superior Kerosene Oil (SKO),SKO,Petroleum Product,597.0,2617.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2005-06,2005,2006,High Speed Diesel (HSD),HSD,Petroleum Product,435.0,1902.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2005-06,2005,2006,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,661.0,2945.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2005-06,2005,2006,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,685.0,2999.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2005-06,2005,2006,Bitumen,Bitumen,Petroleum Product,5.0,22.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2005-06,2005,2006,Others,Others&,Petroleum Product,842.0,3757.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2005-06,2005,2006,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,6302.0,27970.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2005-06,2005,2006,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,45078.0,199672.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2006-07,2006,2007,Crude Oil,CRUDE OIL$,Crude Oil,48389.0,219029.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2006-07,2006,2007,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,1276.0,5766.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2006-07,2006,2007,Motor Spirit (Petrol / MS),MS,Petroleum Product,290.0,1326.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2006-07,2006,2007,Naphtha,Naphtha,Petroleum Product,3142.0,14277.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2006-07,2006,2007,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2006-07,2006,2007,Superior Kerosene Oil (SKO),SKO,Petroleum Product,933.0,4250.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2006-07,2006,2007,High Speed Diesel (HSD),HSD,Petroleum Product,589.0,2670.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2006-07,2006,2007,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,748.0,3392.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2006-07,2006,2007,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,1142.0,5174.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2006-07,2006,2007,Bitumen,Bitumen,Petroleum Product,4.0,19.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2006-07,2006,2007,Others,Others&,Petroleum Product,944.0,4286.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2006-07,2006,2007,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,9068.0,41160.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2006-07,2006,2007,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,57457.0,260189.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2007-08,2007,2008,Crude Oil,CRUDE OIL$,Crude Oil,67988.0,272699.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2007-08,2007,2008,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,2163.0,8700.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2007-08,2007,2008,Motor Spirit (Petrol / MS),MS,Petroleum Product,281.0,1137.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2007-08,2007,2008,Naphtha,Naphtha,Petroleum Product,4582.0,18470.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2007-08,2007,2008,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2007-08,2007,2008,Superior Kerosene Oil (SKO),SKO,Petroleum Product,2072.0,8324.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2007-08,2007,2008,High Speed Diesel (HSD),HSD,Petroleum Product,2265.0,9212.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2007-08,2007,2008,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,844.0,3402.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2007-08,2007,2008,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,1861.0,7485.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2007-08,2007,2008,Bitumen,Bitumen,Petroleum Product,13.0,50.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2007-08,2007,2008,Others,Others&,Petroleum Product,1045.0,4219.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2007-08,2007,2008,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,15126.0,60999.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2007-08,2007,2008,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,83114.0,333698.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2008-09,2008,2009,Crude Oil,CRUDE OIL$,Crude Oil,76876.0,348304.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2008-09,2008,2009,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,1733.0,8072.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2008-09,2008,2009,Motor Spirit (Petrol / MS),MS,Petroleum Product,352.0,1553.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2008-09,2008,2009,Naphtha,Naphtha,Petroleum Product,3802.0,17409.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2008-09,2008,2009,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2008-09,2008,2009,Superior Kerosene Oil (SKO),SKO,Petroleum Product,1486.0,6583.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2008-09,2008,2009,High Speed Diesel (HSD),HSD,Petroleum Product,2198.0,9774.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2008-09,2008,2009,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,988.0,4552.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2008-09,2008,2009,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,1748.0,7729.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2008-09,2008,2009,Bitumen,Bitumen,Petroleum Product,43.022,207.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2008-09,2008,2009,Others,Others&,Petroleum Product,1207.0,5277.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2008-09,2008,2009,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,13557.022,61156.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2008-09,2008,2009,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,90433.022,409460.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2009-10,2009,2010,Crude Oil,CRUDE OIL$,Crude Oil,79553.0,375277.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2009-10,2009,2010,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,1767.1847205228223,8328.821772963733,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2009-10,2009,2010,Motor Spirit (Petrol / MS),MS,Petroleum Product,266.12710819,1264.0710708002139,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2009-10,2009,2010,Naphtha,Naphtha,Petroleum Product,1029.1056353073495,4942.238371498102,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2009-10,2009,2010,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2009-10,2009,2010,Superior Kerosene Oil (SKO),SKO,Petroleum Product,614.22716976,2908.81266801296,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2009-10,2009,2010,High Speed Diesel (HSD),HSD,Petroleum Product,1331.56437558799,6389.733571728817,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2009-10,2009,2010,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,732.6709377126538,3518.18875806726,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2009-10,2009,2010,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,405.5454356767365,1935.4662850423301,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2009-10,2009,2010,Bitumen,Bitumen,Petroleum Product,28.92032630270206,137.7375797226346,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2009-10,2009,2010,Others,Others&,Petroleum Product,912.2560862988157,4374.474891956605,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2009-10,2009,2010,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,7087.60179535907,33799.54496979265,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2009-10,2009,2010,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,86640.60179535906,409076.54496979265,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2010-11,2010,2011,Crude Oil,CRUDE OIL$,Crude Oil,100080.0,455276.3,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2010-11,2010,2011,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,3469.171667167549,15888.160885717376,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2010-11,2010,2011,Motor Spirit (Petrol / MS),MS,Petroleum Product,1403.3623078590383,6426.603981121239,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2010-11,2010,2011,Naphtha,Naphtha,Petroleum Product,1452.9948176127637,6852.983981035588,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2010-11,2010,2011,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2010-11,2010,2011,Superior Kerosene Oil (SKO),SKO,Petroleum Product,1080.96806288284,4939.415026441116,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2010-11,2010,2011,High Speed Diesel (HSD),HSD,Petroleum Product,1505.063865988752,6969.002380939078,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2010-11,2010,2011,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,854.7048725,4093.335588137499,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2010-11,2010,2011,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,527.1804106946006,2455.3674291006528,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2010-11,2010,2011,Bitumen,Bitumen,Petroleum Product,43.495004122493356,209.50424027225472,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2010-11,2010,2011,Others,Others&,Petroleum Product,1731.3884406014422,8163.941811731936,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2010-11,2010,2011,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,12068.329449429479,55998.31532449673,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2010-11,2010,2011,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,112148.32944942948,511274.6153244967,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2011-12,2011,2012,Crude Oil,CRUDE OIL$,Crude Oil,139689.91595309786,672219.8421560093,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2011-12,2011,2012,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,5584.022123084876,27018.53026325598,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2011-12,2011,2012,Motor Spirit (Petrol / MS),MS,Petroleum Product,716.1378670841,3311.482292626,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2011-12,2011,2012,Naphtha,Naphtha,Petroleum Product,2022.4442206506355,9827.436432274,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2011-12,2011,2012,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2011-12,2011,2012,Superior Kerosene Oil (SKO),SKO,Petroleum Product,596.83553668484,2710.358224932216,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2011-12,2011,2012,High Speed Diesel (HSD),HSD,Petroleum Product,1096.0359503879129,5039.256906516801,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2011-12,2011,2012,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,1707.5715465726585,8313.6318314,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2011-12,2011,2012,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,911.7899701577154,4392.102790266001,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2011-12,2011,2012,Bitumen,Bitumen,Petroleum Product,40.240201769357796,196.7815951,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2011-12,2011,2012,Others,Others&,Petroleum Product,1513.7227101124622,7281.542296902561,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2011-12,2011,2012,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,14188.800126504559,68091.12263327355,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2011-12,2011,2012,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,153878.71607960243,740310.9647892829,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2012-13,2012,2013,Crude Oil,CRUDE OIL$,Crude Oil,144293.11621430775,784652.2793634968,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2012-13,2012,2013,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,5803.292208826519,31674.18839544558,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2012-13,2012,2013,Motor Spirit (Petrol / MS),MS,Petroleum Product,159.86164048,890.5109929019391,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2012-13,2012,2013,Naphtha,Naphtha,Petroleum Product,1691.371584843828,9272.113259770002,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2012-13,2012,2013,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2012-13,2012,2013,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2012-13,2012,2013,High Speed Diesel (HSD),HSD,Petroleum Product,506.88767158437946,2770.9472407999997,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2012-13,2012,2013,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,2067.530413664612,11339.2527348,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2012-13,2012,2013,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,777.6072323863254,4217.729981373881,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2012-13,2012,2013,Bitumen,Bitumen,Petroleum Product,49.79967505061848,272.1167134,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2012-13,2012,2013,Others,Others&,Petroleum Product,1533.6298487006113,8415.196080700005,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2012-13,2012,2013,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,12589.980275536895,68852.0553991914,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2012-13,2012,2013,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,156883.09648984464,853504.3347626883,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2013-14,2013,2014,Crude Oil,CRUDE OIL$,Crude Oil,142961.59028411983,864874.7796069629,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2013-14,2013,2014,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,6144.01638410631,37213.08776034013,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2013-14,2013,2014,Motor Spirit (Petrol / MS),MS,Petroleum Product,247.544914898,1481.011768741,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2013-14,2013,2014,Naphtha,Naphtha,Petroleum Product,981.7381997940599,6044.083463708211,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2013-14,2013,2014,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2013-14,2013,2014,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2013-14,2013,2014,High Speed Diesel (HSD),HSD,Petroleum Product,74.07263246227116,451.6756224,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2013-14,2013,2014,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,2121.5846820122642,12984.5188179,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2013-14,2013,2014,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,942.1311555113425,5758.698638657001,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2013-14,2013,2014,Bitumen,Bitumen,Petroleum Product,132.43755717117025,800.9603004,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2013-14,2013,2014,Others,Others&,Petroleum Product,1822.2734837230971,11162.148507514323,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2013-14,2013,2014,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,12465.799009678514,75896.18487966066,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2013-14,2013,2014,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,155427.38929379833,940770.9644866236,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2014-15,2014,2015,Crude Oil,CRUDE OIL$,Crude Oil,112743.57979942759,687416.1743043109,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2014-15,2014,2015,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,5954.756850163995,36570.546765195235,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2014-15,2014,2015,Motor Spirit (Petrol / MS),MS,Petroleum Product,375.4500028716927,2301.1519241357323,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2014-15,2014,2015,Naphtha,Naphtha,Petroleum Product,744.4911132982439,4592.039224107137,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2014-15,2014,2015,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,113.70392261029717,706.0812758,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2014-15,2014,2015,Superior Kerosene Oil (SKO),SKO,Petroleum Product,28.813641259999997,171.710275188,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2014-15,2014,2015,High Speed Diesel (HSD),HSD,Petroleum Product,108.41536378841302,669.5491605,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2014-15,2014,2015,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,2067.206530721799,12701.527066700002,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2014-15,2014,2015,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,598.7481803244541,3658.9311202150006,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2014-15,2014,2015,Bitumen,Bitumen,Petroleum Product,261.51722981432334,1623.1632902999997,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2014-15,2014,2015,Others,Others&,Petroleum Product,1884.881447367349,11649.436504948178,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2014-15,2014,2015,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,12137.984282220566,74644.13660708928,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2014-15,2014,2015,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,124881.56408164816,762060.3109114002,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2015-16,2015,2016,Crude Oil,CRUDE OIL$,Crude Oil,63972.3758832354,416578.8450495825,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2015-16,2015,2016,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,3921.7221296758644,25777.839484810323,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2015-16,2015,2016,Motor Spirit (Petrol / MS),MS,Petroleum Product,648.2647980322558,4207.442809819069,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2015-16,2015,2016,Naphtha,Naphtha,Petroleum Product,1462.9304183299669,9580.603093521575,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2015-16,2015,2016,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,135.31372393095577,888.8044948740002,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2015-16,2015,2016,Superior Kerosene Oil (SKO),SKO,Petroleum Product,24.65999248256436,158.1207263274059,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2015-16,2015,2016,High Speed Diesel (HSD),HSD,Petroleum Product,91.62116131158446,605.1943778,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2015-16,2015,2016,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,1438.8749503907136,9477.680732495,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2015-16,2015,2016,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,363.391296299876,2379.611785274321,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2015-16,2015,2016,Bitumen,Bitumen,Petroleum Product,278.89057428757826,1831.5234534,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2015-16,2015,2016,Others,Others&,Petroleum Product,1586.4006867512987,10454.202919201596,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2015-16,2015,2016,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,9952.069731492657,65361.02387752329,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2015-16,2015,2016,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,73924.44561472806,481939.8689271058,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2016-17,2016,2017,Crude Oil,CRUDE OIL$,Crude Oil,70196.06118856196,470159.31785025244,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2016-17,2016,2017,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,4774.594157440028,32124.41923318496,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2016-17,2016,2017,Motor Spirit (Petrol / MS),MS,Petroleum Product,239.49099848513558,1617.1460786124987,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2016-17,2016,2017,Naphtha,Naphtha,Petroleum Product,1239.7739999913238,8373.948509689593,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2016-17,2016,2017,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,163.3854190505034,1108.9511531,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2016-17,2016,2017,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2016-17,2016,2017,High Speed Diesel (HSD),HSD,Petroleum Product,438.2633324942048,2958.835675020178,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2016-17,2016,2017,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,1275.6037482448257,8625.284542700001,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2016-17,2016,2017,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,273.4233823066175,1847.7016123531328,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2016-17,2016,2017,Bitumen,Bitumen,Petroleum Product,242.413813637705,1638.1162065440003,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2016-17,2016,2017,Others,Others&,Petroleum Product,1966.82270177943,13271.283660851788,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2016-17,2016,2017,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,10613.771553429773,71565.68667205615,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2016-17,2016,2017,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,80809.83274199173,541725.0045223086,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2017-18,2017,2018,Crude Oil,CRUDE OIL$,Crude Oil,87803.14619535027,566450.1480674141,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2017-18,2017,2018,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,5848.845678835419,37875.197159645286,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2017-18,2017,2018,Motor Spirit (Petrol / MS),MS,Petroleum Product,90.8722127,581.498085167335,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2017-18,2017,2018,Naphtha,Naphtha,Petroleum Product,1260.6555783379247,8161.212494490781,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2017-18,2017,2018,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,178.43667553096358,1159.3121527,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2017-18,2017,2018,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2017-18,2017,2018,High Speed Diesel (HSD),HSD,Petroleum Product,659.508239500677,4268.757173411282,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2017-18,2017,2018,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,1860.107182589022,12074.6398987,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2017-18,2017,2018,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,499.38451530465846,3231.454372895678,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2017-18,2017,2018,Bitumen,Bitumen,Petroleum Product,293.241638634669,1902.2740699,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2017-18,2017,2018,Others,Others&,Petroleum Product,2945.9145870634566,19119.573255710195,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2017-18,2017,2018,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,13636.966308496789,88373.91866262053,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2017-18,2017,2018,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,101440.11250384706,654824.0667300345,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2018-19,2018,2019,Crude Oil,CRUDE OIL$,Crude Oil,111914.6718858977,783182.8501063687,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2018-19,2018,2019,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,7178.231950422409,49939.04284722596,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2018-19,2018,2019,Motor Spirit (Petrol / MS),MS,Petroleum Product,444.88044666593004,3103.930633767275,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2018-19,2018,2019,Naphtha,Naphtha,Petroleum Product,1390.560844106403,9665.377199422941,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2018-19,2018,2019,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,199.98127113206476,1392.4628649999997,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2018-19,2018,2019,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2018-19,2018,2019,High Speed Diesel (HSD),HSD,Petroleum Product,360.4593402461178,2485.7659469267473,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2018-19,2018,2019,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,1909.5383400330268,13349.24660886957,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2018-19,2018,2019,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,696.4887849083124,4781.873694758696,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2018-19,2018,2019,Bitumen,Bitumen,Petroleum Product,309.13012355962155,2149.4747944,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2018-19,2018,2019,Others,Others&,Petroleum Product,3851.518722223142,26798.262576281333,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2018-19,2018,2019,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,16340.789823297026,113665.43716665253,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2018-19,2018,2019,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,128255.46170919473,896848.2872730212,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2019-20,2019,2020,Crude Oil,CRUDE OIL$,Crude Oil,101376.19315806715,717000.9751593309,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2019-20,2019,2020,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,7069.9862099290785,50347.45279596901,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2019-20,2019,2020,Motor Spirit (Petrol / MS),MS,Petroleum Product,1356.802612655918,9610.036685846644,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2019-20,2019,2020,Naphtha,Naphtha,Petroleum Product,941.0358343573274,6677.727708682,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2019-20,2019,2020,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,44.6678223680046,308.654693636177,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2019-20,2019,2020,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2019-20,2019,2020,High Speed Diesel (HSD),HSD,Petroleum Product,1632.376618157883,11619.049373286663,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2019-20,2019,2020,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,1672.9277931672727,11868.74408169176,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2019-20,2019,2020,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,1649.7756857300863,11791.440651861294,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2019-20,2019,2020,Bitumen,Bitumen,Petroleum Product,509.7376946481155,3633.6413101458174,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2019-20,2019,2020,Others,Others&,Petroleum Product,2811.3683584382566,19884.84058686725,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2019-20,2019,2020,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,17688.678629451944,125741.58788798662,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2019-20,2019,2020,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,119064.87178751909,842742.5630473176,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2020-21,2020,2021,Crude Oil,CRUDE OIL$,Crude Oil,62248.04694640175,459778.56921302364,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2020-21,2020,2021,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,7242.004492828684,53752.45855229782,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2020-21,2020,2021,Motor Spirit (Petrol / MS),MS,Petroleum Product,674.0612133808116,4949.6252367269935,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2020-21,2020,2021,Naphtha,Naphtha,Petroleum Product,518.2322302866363,3844.04362615056,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2020-21,2020,2021,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0011623911937510868,0.0086963,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2020-21,2020,2021,Superior Kerosene Oil (SKO),SKO,Petroleum Product,1.626106207377258,12.137498500000001,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2020-21,2020,2021,High Speed Diesel (HSD),HSD,Petroleum Product,265.2991054128617,1960.0429817181275,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2020-21,2020,2021,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,1647.3661163855172,12170.252962734508,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2020-21,2020,2021,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,1935.8259865585921,14311.684145728948,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2020-21,2020,2021,Bitumen,Bitumen,Petroleum Product,586.4017402019792,4325.21402754849,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2020-21,2020,2021,Others,Others&,Petroleum Product,1899.4166687942222,14104.197541510253,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2020-21,2020,2021,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,14770.234822447876,109429.6652692157,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2020-21,2020,2021,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,77018.28176884963,569208.2344822393,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2021-22,2021,2022,Crude Oil,CRUDE OIL$,Crude Oil,120675.15291795255,901262.1919712882,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2021-22,2021,2022,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,12235.208494811297,91468.39768418772,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2021-22,2021,2022,Motor Spirit (Petrol / MS),MS,Petroleum Product,519.371214910327,3894.802988808085,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2021-22,2021,2022,Naphtha,Naphtha,Petroleum Product,199.39040071820568,1498.795484452275,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2021-22,2021,2022,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2021-22,2021,2022,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2021-22,2021,2022,High Speed Diesel (HSD),HSD,Petroleum Product,33.859,252.98603920000002,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2021-22,2021,2022,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,2641.98286975942,19704.25384115711,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2021-22,2021,2022,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,4379.084599465694,32814.78189189863,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2021-22,2021,2022,Bitumen,Bitumen,Petroleum Product,1028.56272701,7678.022706574,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2021-22,2021,2022,Others,Others&,Petroleum Product,2618.12393049616,19522.735839963017,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2021-22,2021,2022,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,23655.583237171104,176834.77647624083,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2021-22,2021,2022,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,144330.73615512365,1078096.968447529,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2022-23,2022,2023,Crude Oil,CRUDE OIL$,Crude Oil,157531.02411079602,1260371.82434677,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2022-23,2022,2023,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,13343.518543675507,107191.16804061661,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2022-23,2022,2023,Motor Spirit (Petrol / MS),MS,Petroleum Product,1094.2442626810644,8846.455384260316,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2022-23,2022,2023,Naphtha,Naphtha,Petroleum Product,593.1353501431262,4781.3313432045015,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2022-23,2022,2023,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0002,0.0013425,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2022-23,2022,2023,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2022-23,2022,2023,High Speed Diesel (HSD),HSD,Petroleum Product,453.60129884360686,3584.041482213674,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2022-23,2022,2023,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,2301.066206242296,18449.367541941538,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2022-23,2022,2023,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,4202.313445582386,33474.24586828531,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2022-23,2022,2023,Bitumen,Bitumen,Petroleum Product,1236.5320371199998,9945.076260184564,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2022-23,2022,2023,Others,Others&,Petroleum Product,3688.08564807539,29582.300836077586,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2022-23,2022,2023,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,26912.496992363376,215853.98809928412,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2022-23,2022,2023,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,184443.5211031594,1476225.812446054,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2023-24,2023,2024,Crude Oil,CRUDE OIL$,Crude Oil,133366.42965364747,1105175.856098686,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2023-24,2023,2024,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,10411.887729848999,86361.32858350819,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2023-24,2023,2024,Motor Spirit (Petrol / MS),MS,Petroleum Product,662.5941141190001,5500.2192694,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2023-24,2023,2024,Naphtha,Naphtha,Petroleum Product,799.81465438,6627.228773319983,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2023-24,2023,2024,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.0031,0.0259032,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2023-24,2023,2024,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2023-24,2023,2024,High Speed Diesel (HSD),HSD,Petroleum Product,37.609300000000005,311.85740319999996,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2023-24,2023,2024,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,2310.4581759999996,19129.1550799725,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2023-24,2023,2024,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,4060.649491842543,33668.823172527074,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2023-24,2023,2024,Bitumen,Bitumen,Petroleum Product,1314.2033280903,10874.5140447918,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2023-24,2023,2024,Others,Others&,Petroleum Product,3335.3480676513104,27595.417068868424,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2023-24,2023,2024,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,22932.567961932153,190068.56929878797,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2023-24,2023,2024,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,156298.99761557963,1295244.425397474,False,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).
+FY 2024-25,2024,2025,Crude Oil,CRUDE OIL$,Crude Oil,137173.96944211866,1160617.8764659725,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 10).
+FY 2024-25,2024,2025,Liquefied Petroleum Gas (LPG),LPG,Petroleum Product,12479.399400046233,105678.96399134948,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 12).
+FY 2024-25,2024,2025,Motor Spirit (Petrol / MS),MS,Petroleum Product,187.96391379999997,1572.9630603824262,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 13).
+FY 2024-25,2024,2025,Naphtha,Naphtha,Petroleum Product,636.0897801326446,5346.78564883039,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 14).
+FY 2024-25,2024,2025,Aviation Turbine Fuel (ATF),ATF,Petroleum Product,0.018,0.1503535,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 15).
+FY 2024-25,2024,2025,Superior Kerosene Oil (SKO),SKO,Petroleum Product,0.0,0.0,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 16).
+FY 2024-25,2024,2025,High Speed Diesel (HSD),HSD,Petroleum Product,32.5341,276.20385630000004,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 17).
+FY 2024-25,2024,2025,Lubricants & Greases,LOBS/ Lube oil,Petroleum Product,2591.458,21894.281636600004,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 18).
+FY 2024-25,2024,2025,Furnace Oil & LSHS Combined,Fuel Oil,Petroleum Product,3443.5414416598505,29049.35593716617,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 19).
+FY 2024-25,2024,2025,Bitumen,Bitumen,Petroleum Product,1099.6104671727,9325.793661775999,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 20).
+FY 2024-25,2024,2025,Others,Others&,Petroleum Product,3202.677943211,27038.792935180085,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 21).
+FY 2024-25,2024,2025,Total Petroleum Products,PRODUCT IMPORT*,Aggregate Products,23673.293046022434,200183.29108108458,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 22).
+FY 2024-25,2024,2025,Total Petroleum Imports,TOTAL IMPORTS,Macro Aggregate,160847.2624881411,1360801.1675470571,True,Extracted from PPAC Table 21/22 historical import value matrices (Row 24).

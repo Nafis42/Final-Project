@@ -1,0 +1,8 @@
+dataset_name,temporal_key,earliest_year,latest_year,record_count,expected_record_count,sequence_continuous,missing_years_in_sequence,duplicate_period_keys,total_columns,status
+annual_crude_oil_production.csv,fiscal_year_start,1998,2023,26,26,YES,None,0,20,PASS
+annual_refinery_crude_processing.csv,fiscal_year_start,1998,2026,29,29,YES,None,0,22,PASS
+annual_petroleum_product_production.csv,fiscal_year_start,1998,2025,28,28,YES,None,0,20,PASS
+annual_petroleum_trade_volumes.csv,fiscal_year_start,1998,2024,27,27,YES,None,0,21,PASS
+annual_petroleum_product_consumption.csv,fiscal_year_start,1997,2025,29,29,YES,None,0,21,PASS
+annual_petroleum_import_export_values.csv,fiscal_year_start,1998,2024,27,27,YES,None,0,17,PASS
+crude_oil_fob_price_indian_basket.csv,fiscal_year_start,2000,2025,26,26,YES,None,0,21,PASS

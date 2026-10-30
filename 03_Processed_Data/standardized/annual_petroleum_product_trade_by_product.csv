@@ -1,0 +1,568 @@
+financial_year,fiscal_year_start,fiscal_year_end,trade_flow,commodity_category,product_name,quantity_tmt,quantity_mmt
+FY 1998-99,1998,1999,Export,Petroleum Product,ATF,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,Bitumen,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,Fuel Oil,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,HSD,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,LDO,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,LOBS/ Lube Oil,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,LPG,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,MS,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,Naphtha,720.0,0.72
+FY 1998-99,1998,1999,Export,Petroleum Product,Others,0.0,0.0
+FY 1998-99,1998,1999,Export,Petroleum Product,SKO,0.0,0.0
+FY 1998-99,1998,1999,Import,Petroleum Product,ATF,0.0,0.0
+FY 1998-99,1998,1999,Import,Petroleum Product,Bitumen,0.0,0.0
+FY 1998-99,1998,1999,Import,Petroleum Product,Fuel Oil,1696.0,1.696
+FY 1998-99,1998,1999,Import,Petroleum Product,HSD,10231.0,10.231
+FY 1998-99,1998,1999,Import,Petroleum Product,LOBS/ Lube oil,396.0,0.396
+FY 1998-99,1998,1999,Import,Petroleum Product,LPG,1722.0,1.722
+FY 1998-99,1998,1999,Import,Petroleum Product,MS,251.0,0.251
+FY 1998-99,1998,1999,Import,Petroleum Product,Naphtha,2407.0,2.407
+FY 1998-99,1998,1999,Import,Petroleum Product,Others,3.0,0.003
+FY 1998-99,1998,1999,Import,Petroleum Product,SKO,7065.0,7.065
+FY 1999-20,1999,2020,Export,Petroleum Product,ATF,0.0,0.0
+FY 1999-20,1999,2020,Export,Petroleum Product,Bitumen,0.0,0.0
+FY 1999-20,1999,2020,Export,Petroleum Product,Fuel Oil,0.0,0.0
+FY 1999-20,1999,2020,Export,Petroleum Product,HSD,0.0,0.0
+FY 1999-20,1999,2020,Export,Petroleum Product,LDO,0.0,0.0
+FY 1999-20,1999,2020,Export,Petroleum Product,LOBS/ Lube Oil,0.0,0.0
+FY 1999-20,1999,2020,Export,Petroleum Product,LPG,0.0,0.0
+FY 1999-20,1999,2020,Export,Petroleum Product,MS,131.0,0.131
+FY 1999-20,1999,2020,Export,Petroleum Product,Naphtha,583.0,0.583
+FY 1999-20,1999,2020,Export,Petroleum Product,Others,32.0,0.032
+FY 1999-20,1999,2020,Export,Petroleum Product,SKO,0.0,0.0
+FY 1999-20,1999,2020,Import,Petroleum Product,ATF,0.0,0.0
+FY 1999-20,1999,2020,Import,Petroleum Product,Bitumen,0.0,0.0
+FY 1999-20,1999,2020,Import,Petroleum Product,Fuel Oil,1377.0,1.377
+FY 1999-20,1999,2020,Import,Petroleum Product,HSD,5006.0,5.006
+FY 1999-20,1999,2020,Import,Petroleum Product,LOBS/ Lube oil,407.0,0.407
+FY 1999-20,1999,2020,Import,Petroleum Product,LPG,1587.0,1.587
+FY 1999-20,1999,2020,Import,Petroleum Product,MS,0.0,0.0
+FY 1999-20,1999,2020,Import,Petroleum Product,Naphtha,1917.0,1.917
+FY 1999-20,1999,2020,Import,Petroleum Product,Others,1.0,0.001
+FY 1999-20,1999,2020,Import,Petroleum Product,SKO,6312.0,6.312
+FY 2000-01,2000,2001,Export,Petroleum Product,ATF,160.0,0.16
+FY 2000-01,2000,2001,Export,Petroleum Product,Bitumen,0.0,0.0
+FY 2000-01,2000,2001,Export,Petroleum Product,Fuel Oil,508.0,0.508
+FY 2000-01,2000,2001,Export,Petroleum Product,HSD,1597.0,1.597
+FY 2000-01,2000,2001,Export,Petroleum Product,LDO,10.0,0.01
+FY 2000-01,2000,2001,Export,Petroleum Product,LOBS/ Lube Oil,0.0,0.0
+FY 2000-01,2000,2001,Export,Petroleum Product,LPG,0.0,0.0
+FY 2000-01,2000,2001,Export,Petroleum Product,MS,1202.0,1.202
+FY 2000-01,2000,2001,Export,Petroleum Product,Naphtha,2882.0,2.882
+FY 2000-01,2000,2001,Export,Petroleum Product,Others,2006.0,2.006
+FY 2000-01,2000,2001,Export,Petroleum Product,SKO,0.0,0.0
+FY 2000-01,2000,2001,Import,Petroleum Product,ATF,0.0,0.0
+FY 2000-01,2000,2001,Import,Petroleum Product,Bitumen,0.0,0.0
+FY 2000-01,2000,2001,Import,Petroleum Product,Fuel Oil,1728.0,1.728
+FY 2000-01,2000,2001,Import,Petroleum Product,HSD,0.0,0.0
+FY 2000-01,2000,2001,Import,Petroleum Product,LOBS/ Lube oil,255.0,0.255
+FY 2000-01,2000,2001,Import,Petroleum Product,LPG,853.0,0.853
+FY 2000-01,2000,2001,Import,Petroleum Product,MS,0.0,0.0
+FY 2000-01,2000,2001,Import,Petroleum Product,Naphtha,3165.0,3.165
+FY 2000-01,2000,2001,Import,Petroleum Product,Others,1348.0,1.348
+FY 2000-01,2000,2001,Import,Petroleum Product,SKO,1918.0,1.918
+FY 2001-02,2001,2002,Export,Petroleum Product,ATF,194.0,0.194
+FY 2001-02,2001,2002,Export,Petroleum Product,Bitumen,0.0,0.0
+FY 2001-02,2001,2002,Export,Petroleum Product,Fuel Oil,482.0,0.482
+FY 2001-02,2001,2002,Export,Petroleum Product,HSD,2860.0,2.86
+FY 2001-02,2001,2002,Export,Petroleum Product,LDO,30.0,0.03
+FY 2001-02,2001,2002,Export,Petroleum Product,LOBS/ Lube Oil,0.0,0.0
+FY 2001-02,2001,2002,Export,Petroleum Product,LPG,0.0,0.0
+FY 2001-02,2001,2002,Export,Petroleum Product,MS,2406.0,2.406
+FY 2001-02,2001,2002,Export,Petroleum Product,Naphtha,2535.0,2.535
+FY 2001-02,2001,2002,Export,Petroleum Product,Others,1578.0,1.578
+FY 2001-02,2001,2002,Export,Petroleum Product,SKO,0.0,0.0
+FY 2001-02,2001,2002,Import,Petroleum Product,ATF,0.0,0.0
+FY 2001-02,2001,2002,Import,Petroleum Product,Bitumen,9.0,0.009
+FY 2001-02,2001,2002,Import,Petroleum Product,Fuel Oil,1977.0,1.977
+FY 2001-02,2001,2002,Import,Petroleum Product,HSD,31.0,0.031
+FY 2001-02,2001,2002,Import,Petroleum Product,LOBS/ Lube oil,326.0,0.326
+FY 2001-02,2001,2002,Import,Petroleum Product,LPG,659.0,0.659
+FY 2001-02,2001,2002,Import,Petroleum Product,MS,0.0,0.0
+FY 2001-02,2001,2002,Import,Petroleum Product,Naphtha,3308.0,3.308
+FY 2001-02,2001,2002,Import,Petroleum Product,Others,308.0,0.308
+FY 2001-02,2001,2002,Import,Petroleum Product,SKO,391.0,0.391
+FY 2002-03,2002,2003,Export,Petroleum Product,ATF,697.0,0.697
+FY 2002-03,2002,2003,Export,Petroleum Product,Bitumen,0.0,0.0
+FY 2002-03,2002,2003,Export,Petroleum Product,Fuel Oil,1120.0,1.12
+FY 2002-03,2002,2003,Export,Petroleum Product,HSD,3178.0,3.178
+FY 2002-03,2002,2003,Export,Petroleum Product,LDO,0.0,0.0
+FY 2002-03,2002,2003,Export,Petroleum Product,LOBS/ Lube Oil,23.0,0.023
+FY 2002-03,2002,2003,Export,Petroleum Product,LPG,0.0,0.0
+FY 2002-03,2002,2003,Export,Petroleum Product,MS,2336.0,2.336
+FY 2002-03,2002,2003,Export,Petroleum Product,Naphtha,2067.0,2.067
+FY 2002-03,2002,2003,Export,Petroleum Product,Others,868.0,0.868
+FY 2002-03,2002,2003,Export,Petroleum Product,SKO,0.0,0.0
+FY 2002-03,2002,2003,Import,Petroleum Product,ATF,0.0,0.0
+FY 2002-03,2002,2003,Import,Petroleum Product,Bitumen,0.0,0.0
+FY 2002-03,2002,2003,Import,Petroleum Product,Fuel Oil,2220.0,2.22
+FY 2002-03,2002,2003,Import,Petroleum Product,HSD,106.0,0.106
+FY 2002-03,2002,2003,Import,Petroleum Product,LOBS/ Lube oil,340.0,0.34
+FY 2002-03,2002,2003,Import,Petroleum Product,LPG,1073.0,1.073
+FY 2002-03,2002,2003,Import,Petroleum Product,MS,0.0,0.0
+FY 2002-03,2002,2003,Import,Petroleum Product,Naphtha,2784.0,2.784
+FY 2002-03,2002,2003,Import,Petroleum Product,Others,7.0,0.007
+FY 2002-03,2002,2003,Import,Petroleum Product,SKO,698.0,0.698
+FY 2003-04,2003,2004,Export,Petroleum Product,ATF,1660.0,1.66
+FY 2003-04,2003,2004,Export,Petroleum Product,Bitumen,4.0,0.004
+FY 2003-04,2003,2004,Export,Petroleum Product,Fuel Oil,1310.0,1.31
+FY 2003-04,2003,2004,Export,Petroleum Product,HSD,6181.0,6.181
+FY 2003-04,2003,2004,Export,Petroleum Product,LDO,0.0,0.0
+FY 2003-04,2003,2004,Export,Petroleum Product,LOBS/ Lube Oil,17.0,0.017
+FY 2003-04,2003,2004,Export,Petroleum Product,LPG,0.0,0.0
+FY 2003-04,2003,2004,Export,Petroleum Product,MS,2979.0,2.979
+FY 2003-04,2003,2004,Export,Petroleum Product,Naphtha,2176.0,2.176
+FY 2003-04,2003,2004,Export,Petroleum Product,Others,293.0,0.293
+FY 2003-04,2003,2004,Export,Petroleum Product,SKO,0.0,0.0
+FY 2003-04,2003,2004,Import,Petroleum Product,ATF,0.0,0.0
+FY 2003-04,2003,2004,Import,Petroleum Product,Bitumen,6.0,0.006
+FY 2003-04,2003,2004,Import,Petroleum Product,Fuel Oil,1728.0,1.728
+FY 2003-04,2003,2004,Import,Petroleum Product,HSD,100.0,0.1
+FY 2003-04,2003,2004,Import,Petroleum Product,LOBS/ Lube oil,612.0,0.612
+FY 2003-04,2003,2004,Import,Petroleum Product,LPG,1708.0,1.708
+FY 2003-04,2003,2004,Import,Petroleum Product,MS,0.0,0.0
+FY 2003-04,2003,2004,Import,Petroleum Product,Naphtha,2371.0,2.371
+FY 2003-04,2003,2004,Import,Petroleum Product,Others,672.0,0.672
+FY 2003-04,2003,2004,Import,Petroleum Product,SKO,804.0,0.804
+FY 2004-05,2004,2005,Export,Petroleum Product,ATF,2480.0,2.48
+FY 2004-05,2004,2005,Export,Petroleum Product,Bitumen,47.0,0.047
+FY 2004-05,2004,2005,Export,Petroleum Product,Fuel Oil,1792.0,1.792
+FY 2004-05,2004,2005,Export,Petroleum Product,HSD,7286.0,7.286
+FY 2004-05,2004,2005,Export,Petroleum Product,LDO,0.0,0.0
+FY 2004-05,2004,2005,Export,Petroleum Product,LOBS/ Lube Oil,5.0,0.005
+FY 2004-05,2004,2005,Export,Petroleum Product,LPG,145.0,0.145
+FY 2004-05,2004,2005,Export,Petroleum Product,MS,2897.0,2.897
+FY 2004-05,2004,2005,Export,Petroleum Product,Naphtha,2926.0,2.926
+FY 2004-05,2004,2005,Export,Petroleum Product,Others,427.0,0.427
+FY 2004-05,2004,2005,Export,Petroleum Product,SKO,207.0,0.207
+FY 2004-05,2004,2005,Import,Petroleum Product,ATF,0.0,0.0
+FY 2004-05,2004,2005,Import,Petroleum Product,Bitumen,21.0,0.021
+FY 2004-05,2004,2005,Import,Petroleum Product,Fuel Oil,1585.0,1.585
+FY 2004-05,2004,2005,Import,Petroleum Product,HSD,814.0,0.814
+FY 2004-05,2004,2005,Import,Petroleum Product,LOBS/ Lube oil,557.0,0.557
+FY 2004-05,2004,2005,Import,Petroleum Product,LPG,2334.0,2.334
+FY 2004-05,2004,2005,Import,Petroleum Product,MS,233.0,0.233
+FY 2004-05,2004,2005,Import,Petroleum Product,Naphtha,2214.0,2.214
+FY 2004-05,2004,2005,Import,Petroleum Product,Others,860.0,0.86
+FY 2004-05,2004,2005,Import,Petroleum Product,SKO,210.0,0.21
+FY 2005-06,2005,2006,Export,Petroleum Product,ATF,2828.0,2.828
+FY 2005-06,2005,2006,Export,Petroleum Product,Bitumen,33.0,0.033
+FY 2005-06,2005,2006,Export,Petroleum Product,Fuel Oil,1815.0,1.815
+FY 2005-06,2005,2006,Export,Petroleum Product,HSD,8504.0,8.504
+FY 2005-06,2005,2006,Export,Petroleum Product,LDO,0.2,0.0002
+FY 2005-06,2005,2006,Export,Petroleum Product,LOBS/ Lube Oil,291.0,0.291
+FY 2005-06,2005,2006,Export,Petroleum Product,LPG,53.0,0.053
+FY 2005-06,2005,2006,Export,Petroleum Product,MS,2417.0,2.417
+FY 2005-06,2005,2006,Export,Petroleum Product,Naphtha,5066.0,5.066
+FY 2005-06,2005,2006,Export,Petroleum Product,Others,2333.0,2.333
+FY 2005-06,2005,2006,Export,Petroleum Product,SKO,121.0,0.121
+FY 2005-06,2005,2006,Import,Petroleum Product,ATF,0.0,0.0
+FY 2005-06,2005,2006,Import,Petroleum Product,Bitumen,23.0,0.023
+FY 2005-06,2005,2006,Import,Petroleum Product,Fuel Oil,2015.0,2.015
+FY 2005-06,2005,2006,Import,Petroleum Product,HSD,801.0,0.801
+FY 2005-06,2005,2006,Import,Petroleum Product,LOBS/ Lube oil,1189.0,1.189
+FY 2005-06,2005,2006,Import,Petroleum Product,LPG,2883.0,2.883
+FY 2005-06,2005,2006,Import,Petroleum Product,MS,486.0,0.486
+FY 2005-06,2005,2006,Import,Petroleum Product,Naphtha,2331.0,2.331
+FY 2005-06,2005,2006,Import,Petroleum Product,Others,2669.0,2.669
+FY 2005-06,2005,2006,Import,Petroleum Product,SKO,1044.0,1.044
+FY 2006-07,2006,2007,Export,Petroleum Product,ATF,3652.0,3.652
+FY 2006-07,2006,2007,Export,Petroleum Product,Bitumen,66.0,0.066
+FY 2006-07,2006,2007,Export,Petroleum Product,Fuel Oil,3759.0,3.759
+FY 2006-07,2006,2007,Export,Petroleum Product,HSD,11369.0,11.369
+FY 2006-07,2006,2007,Export,Petroleum Product,LDO,0.1,0.0001
+FY 2006-07,2006,2007,Export,Petroleum Product,LOBS/ Lube Oil,509.0,0.509
+FY 2006-07,2006,2007,Export,Petroleum Product,LPG,112.0,0.112
+FY 2006-07,2006,2007,Export,Petroleum Product,MS,3615.0,3.615
+FY 2006-07,2006,2007,Export,Petroleum Product,Naphtha,8411.0,8.411
+FY 2006-07,2006,2007,Export,Petroleum Product,Others,1980.0,1.98
+FY 2006-07,2006,2007,Export,Petroleum Product,SKO,150.0,0.15
+FY 2006-07,2006,2007,Import,Petroleum Product,ATF,0.0,0.0
+FY 2006-07,2006,2007,Import,Petroleum Product,Bitumen,14.0,0.014
+FY 2006-07,2006,2007,Import,Petroleum Product,Fuel Oil,2983.0,2.983
+FY 2006-07,2006,2007,Import,Petroleum Product,HSD,968.0,0.968
+FY 2006-07,2006,2007,Import,Petroleum Product,LOBS/ Lube oil,1021.0,1.021
+FY 2006-07,2006,2007,Import,Petroleum Product,LPG,2278.0,2.278
+FY 2006-07,2006,2007,Import,Petroleum Product,MS,421.0,0.421
+FY 2006-07,2006,2007,Import,Petroleum Product,Naphtha,5307.0,5.307
+FY 2006-07,2006,2007,Import,Petroleum Product,Others,3244.0,3.244
+FY 2006-07,2006,2007,Import,Petroleum Product,SKO,1424.0,1.424
+FY 2007-08,2007,2008,Export,Petroleum Product,ATF,4486.0,4.486
+FY 2007-08,2007,2008,Export,Petroleum Product,Bitumen,43.0,0.043
+FY 2007-08,2007,2008,Export,Petroleum Product,Fuel Oil,4718.0,4.718
+FY 2007-08,2007,2008,Export,Petroleum Product,HSD,14308.0,14.308
+FY 2007-08,2007,2008,Export,Petroleum Product,LDO,0.0,0.0
+FY 2007-08,2007,2008,Export,Petroleum Product,LOBS/ Lube Oil,311.0,0.311
+FY 2007-08,2007,2008,Export,Petroleum Product,LPG,99.0,0.099
+FY 2007-08,2007,2008,Export,Petroleum Product,MS,4258.0,4.258
+FY 2007-08,2007,2008,Export,Petroleum Product,Naphtha,9297.0,9.297
+FY 2007-08,2007,2008,Export,Petroleum Product,Others,3122.0,3.122
+FY 2007-08,2007,2008,Export,Petroleum Product,SKO,137.0,0.137
+FY 2007-08,2007,2008,Import,Petroleum Product,ATF,0.0,0.0
+FY 2007-08,2007,2008,Import,Petroleum Product,Bitumen,35.0,0.035
+FY 2007-08,2007,2008,Import,Petroleum Product,Fuel Oil,3659.0,3.659
+FY 2007-08,2007,2008,Import,Petroleum Product,HSD,2951.0,2.951
+FY 2007-08,2007,2008,Import,Petroleum Product,LOBS/ Lube oil,1253.0,1.253
+FY 2007-08,2007,2008,Import,Petroleum Product,LPG,2833.0,2.833
+FY 2007-08,2007,2008,Import,Petroleum Product,MS,328.0,0.328
+FY 2007-08,2007,2008,Import,Petroleum Product,Naphtha,5983.0,5.983
+FY 2007-08,2007,2008,Import,Petroleum Product,Others,2931.0,2.931
+FY 2007-08,2007,2008,Import,Petroleum Product,SKO,2489.0,2.489
+FY 2008-09,2008,2009,Export,Petroleum Product,ATF,3701.0,3.701
+FY 2008-09,2008,2009,Export,Petroleum Product,Bitumen,45.0,0.045
+FY 2008-09,2008,2009,Export,Petroleum Product,Fuel Oil,6207.0,6.207
+FY 2008-09,2008,2009,Export,Petroleum Product,HSD,14720.0,14.72
+FY 2008-09,2008,2009,Export,Petroleum Product,LDO,0.4,0.0004
+FY 2008-09,2008,2009,Export,Petroleum Product,LOBS/ Lube Oil,139.0,0.139
+FY 2008-09,2008,2009,Export,Petroleum Product,LPG,109.0,0.109
+FY 2008-09,2008,2009,Export,Petroleum Product,MS,5440.0,5.44
+FY 2008-09,2008,2009,Export,Petroleum Product,Naphtha,7601.0,7.601
+FY 2008-09,2008,2009,Export,Petroleum Product,Others,905.0,0.905
+FY 2008-09,2008,2009,Export,Petroleum Product,SKO,77.0,0.077
+FY 2008-09,2008,2009,Import,Petroleum Product,ATF,0.0,0.0
+FY 2008-09,2008,2009,Import,Petroleum Product,Bitumen,104.6479,0.1046479
+FY 2008-09,2008,2009,Import,Petroleum Product,Fuel Oil,2759.628,2.759628
+FY 2008-09,2008,2009,Import,Petroleum Product,HSD,2742.358,2.7423580000000003
+FY 2008-09,2008,2009,Import,Petroleum Product,LOBS/ Lube oil,985.9779,0.9859779
+FY 2008-09,2008,2009,Import,Petroleum Product,LPG,2422.568,2.422568
+FY 2008-09,2008,2009,Import,Petroleum Product,MS,397.41,0.39741000000000004
+FY 2008-09,2008,2009,Import,Petroleum Product,Naphtha,5022.631,5.0226310000000005
+FY 2008-09,2008,2009,Import,Petroleum Product,Others,2701.8166,2.7018166
+FY 2008-09,2008,2009,Import,Petroleum Product,SKO,1448.15,1.44815
+FY 2009-10,2009,2010,Export,Petroleum Product,ATF,4588.0,4.588
+FY 2009-10,2009,2010,Export,Petroleum Product,Bitumen,31.0,0.031
+FY 2009-10,2009,2010,Export,Petroleum Product,Fuel Oil,5186.066,5.186065999999999
+FY 2009-10,2009,2010,Export,Petroleum Product,HSD,18451.0,18.451
+FY 2009-10,2009,2010,Export,Petroleum Product,LDO,41.0,0.041
+FY 2009-10,2009,2010,Export,Petroleum Product,LOBS/ Lube Oil,28.0,0.028
+FY 2009-10,2009,2010,Export,Petroleum Product,LPG,131.0,0.131
+FY 2009-10,2009,2010,Export,Petroleum Product,MS,9771.0,9.771
+FY 2009-10,2009,2010,Export,Petroleum Product,Naphtha,10042.68,10.04268
+FY 2009-10,2009,2010,Export,Petroleum Product,Others,2839.173,2.8391729999999997
+FY 2009-10,2009,2010,Export,Petroleum Product,SKO,46.0,0.046
+FY 2009-10,2009,2010,Import,Petroleum Product,ATF,0.0,0.0
+FY 2009-10,2009,2010,Import,Petroleum Product,Bitumen,69.0,0.069
+FY 2009-10,2009,2010,Import,Petroleum Product,Fuel Oil,896.0,0.896
+FY 2009-10,2009,2010,Import,Petroleum Product,HSD,2531.0,2.531
+FY 2009-10,2009,2010,Import,Petroleum Product,LOBS/ Lube oil,1419.0,1.419
+FY 2009-10,2009,2010,Import,Petroleum Product,LPG,2718.0,2.718
+FY 2009-10,2009,2010,Import,Petroleum Product,MS,385.0,0.385
+FY 2009-10,2009,2010,Import,Petroleum Product,Naphtha,1734.0,1.734
+FY 2009-10,2009,2010,Import,Petroleum Product,Others,3928.0,3.928
+FY 2009-10,2009,2010,Import,Petroleum Product,SKO,985.0,0.985
+FY 2010-11,2010,2011,Export,Petroleum Product,ATF,4478.093,4.478092999999999
+FY 2010-11,2010,2011,Export,Petroleum Product,Bitumen,56.0,0.056
+FY 2010-11,2010,2011,Export,Petroleum Product,Fuel Oil,6734.0,6.734
+FY 2010-11,2010,2011,Export,Petroleum Product,HSD,20335.0,20.335
+FY 2010-11,2010,2011,Export,Petroleum Product,LDO,98.0,0.098
+FY 2010-11,2010,2011,Export,Petroleum Product,LOBS/ Lube Oil,29.0,0.029
+FY 2010-11,2010,2011,Export,Petroleum Product,LPG,154.0,0.154
+FY 2010-11,2010,2011,Export,Petroleum Product,MS,13578.0,13.578
+FY 2010-11,2010,2011,Export,Petroleum Product,Naphtha,10655.0,10.655
+FY 2010-11,2010,2011,Export,Petroleum Product,Others,2927.0,2.927
+FY 2010-11,2010,2011,Export,Petroleum Product,SKO,33.0,0.033
+FY 2010-11,2010,2011,Import,Petroleum Product,ATF,0.0,0.0
+FY 2010-11,2010,2011,Import,Petroleum Product,Bitumen,98.004,0.09800400000000001
+FY 2010-11,2010,2011,Import,Petroleum Product,Fuel Oil,1012.7708,1.0127708
+FY 2010-11,2010,2011,Import,Petroleum Product,HSD,1996.2493,1.9962493
+FY 2010-11,2010,2011,Import,Petroleum Product,LOBS/ Lube oil,1291.257,1.291257
+FY 2010-11,2010,2011,Import,Petroleum Product,LPG,4484.3425,4.4843424999999995
+FY 2010-11,2010,2011,Import,Petroleum Product,MS,1702.2146,1.7022146
+FY 2010-11,2010,2011,Import,Petroleum Product,Naphtha,2062.518,2.062518
+FY 2010-11,2010,2011,Import,Petroleum Product,Others,3351.5646,3.3515646
+FY 2010-11,2010,2011,Import,Petroleum Product,SKO,1380.5205,1.3805205
+FY 2011-12,2011,2012,Export,Petroleum Product,ATF,4560.7966,4.5607966
+FY 2011-12,2011,2012,Export,Petroleum Product,Bitumen,4.538,0.004538
+FY 2011-12,2011,2012,Export,Petroleum Product,Fuel Oil,7895.4939,7.8954939
+FY 2011-12,2011,2012,Export,Petroleum Product,HSD,20406.9068,20.4069068
+FY 2011-12,2011,2012,Export,Petroleum Product,LDO,84.104,0.084104
+FY 2011-12,2011,2012,Export,Petroleum Product,LOBS/ Lube Oil,27.1453,0.027145299999999997
+FY 2011-12,2011,2012,Export,Petroleum Product,LPG,174.4432,0.1744432
+FY 2011-12,2011,2012,Export,Petroleum Product,MS,14523.5031,14.5235031
+FY 2011-12,2011,2012,Export,Petroleum Product,Naphtha,10138.729,10.138729
+FY 2011-12,2011,2012,Export,Petroleum Product,Others,2988.0818,2.9880818
+FY 2011-12,2011,2012,Export,Petroleum Product,SKO,33.5989,0.0335989
+FY 2011-12,2011,2012,Import,Petroleum Product,ATF,0.0,0.0
+FY 2011-12,2011,2012,Import,Petroleum Product,Bitumen,77.8404,0.0778404
+FY 2011-12,2011,2012,Import,Petroleum Product,Fuel Oil,1202.6921,1.2026921
+FY 2011-12,2011,2012,Import,Petroleum Product,HSD,1058.9997,1.0589997
+FY 2011-12,2011,2012,Import,Petroleum Product,LOBS/ Lube oil,1434.208,1.4342080000000001
+FY 2011-12,2011,2012,Import,Petroleum Product,LPG,5790.0342,5.7900342
+FY 2011-12,2011,2012,Import,Petroleum Product,MS,653.7809,0.6537809
+FY 2011-12,2011,2012,Import,Petroleum Product,Naphtha,2090.5393,2.0905393
+FY 2011-12,2011,2012,Import,Petroleum Product,Others,2977.1758,2.9771758
+FY 2011-12,2011,2012,Import,Petroleum Product,SKO,564.1,0.5641
+FY 2012-13,2012,2013,Export,Petroleum Product,ATF,4663.6705,4.6636705
+FY 2012-13,2012,2013,Export,Petroleum Product,Bitumen,86.8872,0.08688720000000001
+FY 2012-13,2012,2013,Export,Petroleum Product,Fuel Oil,5921.7535,5.9217534999999994
+FY 2012-13,2012,2013,Export,Petroleum Product,HSD,22464.0385,22.464038499999997
+FY 2012-13,2012,2013,Export,Petroleum Product,LDO,9.1828,0.0091828
+FY 2012-13,2012,2013,Export,Petroleum Product,LOBS/ Lube Oil,59.0541,0.0590541
+FY 2012-13,2012,2013,Export,Petroleum Product,LPG,200.4651,0.2004651
+FY 2012-13,2012,2013,Export,Petroleum Product,MS,16657.1496,16.6571496
+FY 2012-13,2012,2013,Export,Petroleum Product,Naphtha,8647.1058,8.647105799999999
+FY 2012-13,2012,2013,Export,Petroleum Product,Others,4675.2873,4.6752873
+FY 2012-13,2012,2013,Export,Petroleum Product,SKO,23.1676,0.0231676
+FY 2012-13,2012,2013,Import,Petroleum Product,ATF,0.0,0.0
+FY 2012-13,2012,2013,Import,Petroleum Product,Bitumen,101.6515,0.10165149999999999
+FY 2012-13,2012,2013,Import,Petroleum Product,Fuel Oil,1037.7052,1.0377052
+FY 2012-13,2012,2013,Import,Petroleum Product,HSD,527.8851,0.5278851
+FY 2012-13,2012,2013,Import,Petroleum Product,LOBS/ Lube oil,1976.8259,1.9768259000000001
+FY 2012-13,2012,2013,Import,Petroleum Product,LPG,6300.797,6.300796999999999
+FY 2012-13,2012,2013,Import,Petroleum Product,MS,146.8283,0.14682830000000002
+FY 2012-13,2012,2013,Import,Petroleum Product,Naphtha,1761.7347,1.7617346999999999
+FY 2012-13,2012,2013,Import,Petroleum Product,Others,4500.692,4.500692
+FY 2012-13,2012,2013,Import,Petroleum Product,SKO,0.0,0.0
+FY 2013-14,2013,2014,Export,Petroleum Product,ATF,5744.5129,5.7445129
+FY 2013-14,2013,2014,Export,Petroleum Product,Bitumen,94.8774,0.0948774
+FY 2013-14,2013,2014,Export,Petroleum Product,Fuel Oil,6159.2841,6.1592841
+FY 2013-14,2013,2014,Export,Petroleum Product,HSD,26468.7224,26.468722399999997
+FY 2013-14,2013,2014,Export,Petroleum Product,LDO,29.8,0.0298
+FY 2013-14,2013,2014,Export,Petroleum Product,LOBS/ Lube Oil,20.2115,0.0202115
+FY 2013-14,2013,2014,Export,Petroleum Product,LPG,227.3474,0.2273474
+FY 2013-14,2013,2014,Export,Petroleum Product,MS,15246.6435,15.2466435
+FY 2013-14,2013,2014,Export,Petroleum Product,Naphtha,8321.9901,8.3219901
+FY 2013-14,2013,2014,Export,Petroleum Product,Others,5535.3798,5.535379799999999
+FY 2013-14,2013,2014,Export,Petroleum Product,SKO,15.2457,0.0152457
+FY 2013-14,2013,2014,Import,Petroleum Product,ATF,0.0,0.0
+FY 2013-14,2013,2014,Import,Petroleum Product,Bitumen,245.9214,0.2459214
+FY 2013-14,2013,2014,Import,Petroleum Product,Fuel Oil,1331.4852,1.3314852000000001
+FY 2013-14,2013,2014,Import,Petroleum Product,HSD,76.648,0.076648
+FY 2013-14,2013,2014,Import,Petroleum Product,LOBS/ Lube oil,2090.0204,2.0900204
+FY 2013-14,2013,2014,Import,Petroleum Product,LPG,6567.4136,6.5674136
+FY 2013-14,2013,2014,Import,Petroleum Product,MS,235.3197,0.23531970000000002
+FY 2013-14,2013,2014,Import,Petroleum Product,Naphtha,1020.2224,1.0202224
+FY 2013-14,2013,2014,Import,Petroleum Product,Others,5129.9739,5.1299738999999995
+FY 2013-14,2013,2014,Import,Petroleum Product,SKO,0.0,0.0
+FY 2014-15,2014,2015,Export,Petroleum Product,ATF,5519.9994,5.5199994
+FY 2014-15,2014,2015,Export,Petroleum Product,Bitumen,94.491,0.094491
+FY 2014-15,2014,2015,Export,Petroleum Product,Fuel Oil,4762.4353,4.7624353
+FY 2014-15,2014,2015,Export,Petroleum Product,HSD,25559.2634,25.5592634
+FY 2014-15,2014,2015,Export,Petroleum Product,LDO,6.3905,0.0063905
+FY 2014-15,2014,2015,Export,Petroleum Product,LOBS/ Lube Oil,11.1561,0.0111561
+FY 2014-15,2014,2015,Export,Petroleum Product,LPG,253.5463,0.2535463
+FY 2014-15,2014,2015,Export,Petroleum Product,MS,16047.6817,16.0476817
+FY 2014-15,2014,2015,Export,Petroleum Product,Naphtha,7008.3976,7.0083976
+FY 2014-15,2014,2015,Export,Petroleum Product,Others,4653.3515,4.653351499999999
+FY 2014-15,2014,2015,Export,Petroleum Product,SKO,15.1442,0.0151442
+FY 2014-15,2014,2015,Import,Petroleum Product,ATF,139.63,0.13963
+FY 2014-15,2014,2015,Import,Petroleum Product,Bitumen,517.0014,0.5170013999999999
+FY 2014-15,2014,2015,Import,Petroleum Product,Fuel Oil,902.0672,0.9020672
+FY 2014-15,2014,2015,Import,Petroleum Product,HSD,123.6344,0.1236344
+FY 2014-15,2014,2015,Import,Petroleum Product,LOBS/ Lube oil,2148.111,2.1481109999999997
+FY 2014-15,2014,2015,Import,Petroleum Product,LPG,8313.3946,8.313394599999999
+FY 2014-15,2014,2015,Import,Petroleum Product,MS,371.7744,0.3717744
+FY 2014-15,2014,2015,Import,Petroleum Product,Naphtha,1034.2663,1.0342663
+FY 2014-15,2014,2015,Import,Petroleum Product,Others,7721.6438,7.7216438
+FY 2014-15,2014,2015,Import,Petroleum Product,SKO,29.6384,0.029638400000000002
+FY 2015-16,2015,2016,Export,Petroleum Product,ATF,5686.0629,5.6860629
+FY 2015-16,2015,2016,Export,Petroleum Product,Bitumen,100.9424,0.1009424
+FY 2015-16,2015,2016,Export,Petroleum Product,Fuel Oil,2805.8996,2.8058996
+FY 2015-16,2015,2016,Export,Petroleum Product,HSD,24037.3865,24.0373865
+FY 2015-16,2015,2016,Export,Petroleum Product,LDO,0.0,0.0
+FY 2015-16,2015,2016,Export,Petroleum Product,LOBS/ Lube Oil,17.2459,0.017245899999999998
+FY 2015-16,2015,2016,Export,Petroleum Product,LPG,195.2036,0.1952036
+FY 2015-16,2015,2016,Export,Petroleum Product,MS,16816.6281,16.816628100000003
+FY 2015-16,2015,2016,Export,Petroleum Product,Naphtha,7116.1005,7.1161005
+FY 2015-16,2015,2016,Export,Petroleum Product,Others,3753.3754,3.7533754
+FY 2015-16,2015,2016,Export,Petroleum Product,SKO,9.7174,0.0097174
+FY 2015-16,2015,2016,Import,Petroleum Product,ATF,285.749,0.28574900000000003
+FY 2015-16,2015,2016,Import,Petroleum Product,Bitumen,879.0078,0.8790078
+FY 2015-16,2015,2016,Import,Petroleum Product,Fuel Oil,1169.8403,1.1698403000000002
+FY 2015-16,2015,2016,Import,Petroleum Product,HSD,177.3915,0.1773915
+FY 2015-16,2015,2016,Import,Petroleum Product,LOBS/ Lube oil,2264.368,2.264368
+FY 2015-16,2015,2016,Import,Petroleum Product,LPG,8959.1988,8.9591988
+FY 2015-16,2015,2016,Import,Petroleum Product,MS,1012.4412,1.0124412
+FY 2015-16,2015,2016,Import,Petroleum Product,Naphtha,2931.1849,2.9311849000000003
+FY 2015-16,2015,2016,Import,Petroleum Product,Others,11735.4225,11.7354225
+FY 2015-16,2015,2016,Import,Petroleum Product,SKO,41.1503,0.0411503
+FY 2016-17,2016,2017,Export,Petroleum Product,ATF,7270.5991,7.2705991
+FY 2016-17,2016,2017,Export,Petroleum Product,Bitumen,37.8073,0.037807299999999995
+FY 2016-17,2016,2017,Export,Petroleum Product,Fuel Oil,2247.5004,2.2475004
+FY 2016-17,2016,2017,Export,Petroleum Product,HSD,27302.1207,27.3021207
+FY 2016-17,2016,2017,Export,Petroleum Product,LDO,150.5849,0.1505849
+FY 2016-17,2016,2017,Export,Petroleum Product,LOBS/ Lube Oil,12.7092,0.012709199999999999
+FY 2016-17,2016,2017,Export,Petroleum Product,LPG,316.7459,0.3167459
+FY 2016-17,2016,2017,Export,Petroleum Product,MS,15416.5077,15.4165077
+FY 2016-17,2016,2017,Export,Petroleum Product,Naphtha,8726.6956,8.7266956
+FY 2016-17,2016,2017,Export,Petroleum Product,Others,4016.81,4.0168099999999995
+FY 2016-17,2016,2017,Export,Petroleum Product,SKO,15.3887,0.0153887
+FY 2016-17,2016,2017,Import,Petroleum Product,ATF,337.54,0.33754
+FY 2016-17,2016,2017,Import,Petroleum Product,Bitumen,950.754,0.950754
+FY 2016-17,2016,2017,Import,Petroleum Product,Fuel Oil,924.6449,0.9246449
+FY 2016-17,2016,2017,Import,Petroleum Product,HSD,1008.14,1.00814
+FY 2016-17,2016,2017,Import,Petroleum Product,LOBS/ Lube oil,2130.889,2.1308890000000003
+FY 2016-17,2016,2017,Import,Petroleum Product,LPG,11097.2948,11.0972948
+FY 2016-17,2016,2017,Import,Petroleum Product,MS,476.2468,0.4762468
+FY 2016-17,2016,2017,Import,Petroleum Product,Naphtha,2776.8219,2.7768219
+FY 2016-17,2016,2017,Import,Petroleum Product,Others,16584.8946,16.5848946
+FY 2016-17,2016,2017,Import,Petroleum Product,SKO,0.0,0.0
+FY 2017-18,2017,2018,Export,Petroleum Product,ATF,7182.5175,7.1825175
+FY 2017-18,2017,2018,Export,Petroleum Product,Bitumen,63.8705,0.0638705
+FY 2017-18,2017,2018,Export,Petroleum Product,Fuel Oil,2525.0647,2.5250646999999997
+FY 2017-18,2017,2018,Export,Petroleum Product,HSD,29717.0598,29.717059799999998
+FY 2017-18,2017,2018,Export,Petroleum Product,LDO,18.1752,0.0181752
+FY 2017-18,2017,2018,Export,Petroleum Product,LOBS/ Lube Oil,13.2703,0.0132703
+FY 2017-18,2017,2018,Export,Petroleum Product,LPG,359.291,0.35929099999999997
+FY 2017-18,2017,2018,Export,Petroleum Product,MS,14036.3116,14.036311600000001
+FY 2017-18,2017,2018,Export,Petroleum Product,Naphtha,8951.4179,8.951417900000001
+FY 2017-18,2017,2018,Export,Petroleum Product,Others,3948.5075,3.9485075000000003
+FY 2017-18,2017,2018,Export,Petroleum Product,SKO,17.2434,0.017243400000000002
+FY 2017-18,2017,2018,Import,Petroleum Product,ATF,300.076,0.300076
+FY 2017-18,2017,2018,Import,Petroleum Product,Bitumen,950.2539,0.9502539000000001
+FY 2017-18,2017,2018,Import,Petroleum Product,Fuel Oil,1212.8578,1.2128578
+FY 2017-18,2017,2018,Import,Petroleum Product,HSD,1360.5506,1.3605506
+FY 2017-18,2017,2018,Import,Petroleum Product,LOBS/ Lube oil,2538.7784,2.5387784
+FY 2017-18,2017,2018,Import,Petroleum Product,LPG,11379.5793,11.3795793
+FY 2017-18,2017,2018,Import,Petroleum Product,MS,173.6307,0.1736307
+FY 2017-18,2017,2018,Import,Petroleum Product,Naphtha,2211.63,2.21163
+FY 2017-18,2017,2018,Import,Petroleum Product,Others,15333.4781,15.3334781
+FY 2017-18,2017,2018,Import,Petroleum Product,SKO,0.0,0.0
+FY 2018-19,2018,2019,Export,Petroleum Product,ATF,7389.0568,7.3890568000000005
+FY 2018-19,2018,2019,Export,Petroleum Product,Bitumen,22.6875,0.0226875
+FY 2018-19,2018,2019,Export,Petroleum Product,Fuel Oil,2196.5685,2.1965684999999997
+FY 2018-19,2018,2019,Export,Petroleum Product,HSD,27832.7196,27.8327196
+FY 2018-19,2018,2019,Export,Petroleum Product,LDO,98.71,0.09870999999999999
+FY 2018-19,2018,2019,Export,Petroleum Product,LOBS/ Lube Oil,8.1436,0.008143599999999999
+FY 2018-19,2018,2019,Export,Petroleum Product,LPG,416.968,0.416968
+FY 2018-19,2018,2019,Export,Petroleum Product,MS,12884.9466,12.8849466
+FY 2018-19,2018,2019,Export,Petroleum Product,Naphtha,6963.4803,6.9634803000000005
+FY 2018-19,2018,2019,Export,Petroleum Product,Others,3263.7029,3.2637029
+FY 2018-19,2018,2019,Export,Petroleum Product,SKO,18.7489,0.0187489
+FY 2018-19,2018,2019,Import,Petroleum Product,ATF,258.761,0.258761
+FY 2018-19,2018,2019,Import,Petroleum Product,Bitumen,877.2976,0.8772976
+FY 2018-19,2018,2019,Import,Petroleum Product,Fuel Oil,1419.3999,1.4193999
+FY 2018-19,2018,2019,Import,Petroleum Product,HSD,555.4527,0.5554527
+FY 2018-19,2018,2019,Import,Petroleum Product,LOBS/ Lube oil,2456.6861,2.4566860999999998
+FY 2018-19,2018,2019,Import,Petroleum Product,LPG,13235.0561,13.2350561
+FY 2018-19,2018,2019,Import,Petroleum Product,MS,669.7967,0.6697967
+FY 2018-19,2018,2019,Import,Petroleum Product,Naphtha,2081.5549,2.0815549
+FY 2018-19,2018,2019,Import,Petroleum Product,Others,11794.3191,11.794319100000001
+FY 2018-19,2018,2019,Import,Petroleum Product,SKO,0.0,0.0
+FY 2019-20,2019,2020,Export,Petroleum Product,ATF,6906.4776,6.9064776000000005
+FY 2019-20,2019,2020,Export,Petroleum Product,Bitumen,25.3439,0.025343900000000003
+FY 2019-20,2019,2020,Export,Petroleum Product,Fuel Oil,1527.0172,1.5270172
+FY 2019-20,2019,2020,Export,Petroleum Product,HSD,31653.3671,31.6533671
+FY 2019-20,2019,2020,Export,Petroleum Product,LDO,0.0,0.0
+FY 2019-20,2019,2020,Export,Petroleum Product,LOBS/ Lube Oil,7.7807,0.007780700000000001
+FY 2019-20,2019,2020,Export,Petroleum Product,LPG,463.2579,0.4632579
+FY 2019-20,2019,2020,Export,Petroleum Product,MS,12710.2516,12.7102516
+FY 2019-20,2019,2020,Export,Petroleum Product,Naphtha,8896.6411,8.8966411
+FY 2019-20,2019,2020,Export,Petroleum Product,Others,3318.8837,3.3188836999999998
+FY 2019-20,2019,2020,Export,Petroleum Product,SKO,176.2154,0.1762154
+FY 2019-20,2019,2020,Import,Petroleum Product,ATF,64.9134,0.0649134
+FY 2019-20,2019,2020,Import,Petroleum Product,Bitumen,1629.6207,1.6296207
+FY 2019-20,2019,2020,Import,Petroleum Product,Fuel Oil,4582.959,4.582959
+FY 2019-20,2019,2020,Import,Petroleum Product,HSD,2795.6505,2.7956505000000003
+FY 2019-20,2019,2020,Import,Petroleum Product,LOBS/ Lube oil,2674.6144,2.6746144
+FY 2019-20,2019,2020,Import,Petroleum Product,LPG,14808.5983,14.8085983
+FY 2019-20,2019,2020,Import,Petroleum Product,MS,2146.0055,2.1460055000000002
+FY 2019-20,2019,2020,Import,Petroleum Product,Naphtha,1661.9429,1.6619429000000001
+FY 2019-20,2019,2020,Import,Petroleum Product,Others,13423.3062,13.4233062
+FY 2019-20,2019,2020,Import,Petroleum Product,SKO,0.0,0.0
+FY 2020-21,2020,2021,Export,Petroleum Product,ATF,3544.3877,3.5443877
+FY 2020-21,2020,2021,Export,Petroleum Product,Bitumen,6.9445,0.006944499999999999
+FY 2020-21,2020,2021,Export,Petroleum Product,Fuel Oil,1177.3709,1.1773708999999999
+FY 2020-21,2020,2021,Export,Petroleum Product,HSD,30575.8803,30.5758803
+FY 2020-21,2020,2021,Export,Petroleum Product,LDO,0.0,0.0
+FY 2020-21,2020,2021,Export,Petroleum Product,LOBS/ Lube Oil,14.8641,0.0148641
+FY 2020-21,2020,2021,Export,Petroleum Product,LPG,451.9865,0.45198649999999996
+FY 2020-21,2020,2021,Export,Petroleum Product,MS,11605.8333,11.6058333
+FY 2020-21,2020,2021,Export,Petroleum Product,Naphtha,6509.1124,6.5091124
+FY 2020-21,2020,2021,Export,Petroleum Product,Others,2867.192,2.867192
+FY 2020-21,2020,2021,Export,Petroleum Product,SKO,15.1288,0.0151288
+FY 2020-21,2020,2021,Import,Petroleum Product,ATF,0.0003,3e-07
+FY 2020-21,2020,2021,Import,Petroleum Product,Bitumen,2054.8013,2.0548013000000003
+FY 2020-21,2020,2021,Import,Petroleum Product,Fuel Oil,6454.3539,6.4543539
+FY 2020-21,2020,2021,Import,Petroleum Product,HSD,648.1976,0.6481975999999999
+FY 2020-21,2020,2021,Import,Petroleum Product,LOBS/ Lube oil,2692.6659,2.6926659
+FY 2020-21,2020,2021,Import,Petroleum Product,LPG,16475.9377,16.4759377
+FY 2020-21,2020,2021,Import,Petroleum Product,MS,1351.2521,1.3512521
+FY 2020-21,2020,2021,Import,Petroleum Product,Naphtha,1199.1391,1.1991391
+FY 2020-21,2020,2021,Import,Petroleum Product,Others,12368.5485,12.368548500000001
+FY 2020-21,2020,2021,Import,Petroleum Product,SKO,2.7668,0.0027668
+FY 2021-22,2021,2022,Export,Petroleum Product,ATF,5185.513,5.185513
+FY 2021-22,2021,2022,Export,Petroleum Product,Bitumen,6.174,0.006174000000000001
+FY 2021-22,2021,2022,Export,Petroleum Product,Fuel Oil,1757.3215,1.7573215
+FY 2021-22,2021,2022,Export,Petroleum Product,HSD,32407.1541,32.4071541
+FY 2021-22,2021,2022,Export,Petroleum Product,LDO,0.0371,3.71e-05
+FY 2021-22,2021,2022,Export,Petroleum Product,LOBS/ Lube Oil,10.3619,0.0103619
+FY 2021-22,2021,2022,Export,Petroleum Product,LPG,512.8561,0.5128560999999999
+FY 2021-22,2021,2022,Export,Petroleum Product,MS,13482.4841,13.482484099999999
+FY 2021-22,2021,2022,Export,Petroleum Product,Naphtha,6861.1196,6.8611196
+FY 2021-22,2021,2022,Export,Petroleum Product,Others,2517.1991,2.5171991
+FY 2021-22,2021,2022,Export,Petroleum Product,SKO,14.3208,0.0143208
+FY 2021-22,2021,2022,Import,Petroleum Product,ATF,0.0,0.0
+FY 2021-22,2021,2022,Import,Petroleum Product,Bitumen,2580.5266,2.5805266000000002
+FY 2021-22,2021,2022,Import,Petroleum Product,Fuel Oil,8980.4642,8.9804642
+FY 2021-22,2021,2022,Import,Petroleum Product,HSD,43.4334,0.0434334
+FY 2021-22,2021,2022,Import,Petroleum Product,LOBS/ Lube oil,3058.3419,3.0583419
+FY 2021-22,2021,2022,Import,Petroleum Product,LPG,17043.3535,17.043353500000002
+FY 2021-22,2021,2022,Import,Petroleum Product,MS,670.8826,0.6708826
+FY 2021-22,2021,2022,Import,Petroleum Product,Naphtha,236.9372,0.2369372
+FY 2021-22,2021,2022,Import,Petroleum Product,Others,6402.7421,6.4027421
+FY 2021-22,2021,2022,Import,Petroleum Product,SKO,0.0,0.0
+FY 2022-23,2022,2023,Export,Petroleum Product,ATF,7263.5654,7.2635654
+FY 2022-23,2022,2023,Export,Petroleum Product,Bitumen,8.7878,0.0087878
+FY 2022-23,2022,2023,Export,Petroleum Product,Fuel Oil,1840.9374,1.8409374
+FY 2022-23,2022,2023,Export,Petroleum Product,HSD,28494.4339,28.4944339
+FY 2022-23,2022,2023,Export,Petroleum Product,LDO,1.4897,0.0014897
+FY 2022-23,2022,2023,Export,Petroleum Product,LOBS/ Lube Oil,13.8061,0.0138061
+FY 2022-23,2022,2023,Export,Petroleum Product,LPG,539.5247,0.5395247000000001
+FY 2022-23,2022,2023,Export,Petroleum Product,MS,13126.853,13.126852999999999
+FY 2022-23,2022,2023,Export,Petroleum Product,Naphtha,5714.104,5.714104
+FY 2022-23,2022,2023,Export,Petroleum Product,Others,4000.6013,4.0006013
+FY 2022-23,2022,2023,Export,Petroleum Product,SKO,10.8333,0.010833299999999999
+FY 2022-23,2022,2023,Import,Petroleum Product,ATF,0.0,0.0
+FY 2022-23,2022,2023,Import,Petroleum Product,Bitumen,2797.4497,2.7974497
+FY 2022-23,2022,2023,Import,Petroleum Product,Fuel Oil,8562.5943,8.5625943
+FY 2022-23,2022,2023,Import,Petroleum Product,HSD,322.398,0.322398
+FY 2022-23,2022,2023,Import,Petroleum Product,LOBS/ Lube oil,2152.2551,2.1522550999999996
+FY 2022-23,2022,2023,Import,Petroleum Product,LPG,18335.4415,18.3354415
+FY 2022-23,2022,2023,Import,Petroleum Product,MS,1068.7007,1.0687007000000002
+FY 2022-23,2022,2023,Import,Petroleum Product,Naphtha,896.5256,0.8965256
+FY 2022-23,2022,2023,Import,Petroleum Product,Others,10462.5084,10.4625084
+FY 2022-23,2022,2023,Import,Petroleum Product,SKO,0.0,0.0
+FY 2023-24,2023,2024,Export,Petroleum Product,ATF,8579.3739,8.5793739
+FY 2023-24,2023,2024,Export,Petroleum Product,Bitumen,17.5647,0.0175647
+FY 2023-24,2023,2024,Export,Petroleum Product,Fuel Oil,2102.9561,2.1029560999999997
+FY 2023-24,2023,2024,Export,Petroleum Product,HSD,28204.4419,28.204441900000003
+FY 2023-24,2023,2024,Export,Petroleum Product,LDO,0.054,5.4e-05
+FY 2023-24,2023,2024,Export,Petroleum Product,LOBS/ Lube Oil,14.8083,0.0148083
+FY 2023-24,2023,2024,Export,Petroleum Product,LPG,525.382,0.5253819999999999
+FY 2023-24,2023,2024,Export,Petroleum Product,MS,13472.4777,13.472477699999999
+FY 2023-24,2023,2024,Export,Petroleum Product,Naphtha,5275.2697,5.2752697
+FY 2023-24,2023,2024,Export,Petroleum Product,Others,4389.6473,4.3896473
+FY 2023-24,2023,2024,Export,Petroleum Product,SKO,10.891,0.010891
+FY 2023-24,2023,2024,Import,Petroleum Product,ATF,0.0024,2.4e-06
+FY 2023-24,2023,2024,Import,Petroleum Product,Bitumen,3243.6173,3.2436173
+FY 2023-24,2023,2024,Import,Petroleum Product,Fuel Oil,9052.6393,9.052639300000001
+FY 2023-24,2023,2024,Import,Petroleum Product,HSD,42.0589,0.0420589
+FY 2023-24,2023,2024,Import,Petroleum Product,LOBS/ Lube oil,2412.4713,2.4124713
+FY 2023-24,2023,2024,Import,Petroleum Product,LPG,18514.1973,18.5141973
+FY 2023-24,2023,2024,Import,Petroleum Product,MS,717.401,0.717401
+FY 2023-24,2023,2024,Import,Petroleum Product,Naphtha,1210.7779,1.2107779
+FY 2023-24,2023,2024,Import,Petroleum Product,Others,13499.6596,13.499659600000001
+FY 2023-24,2023,2024,Import,Petroleum Product,SKO,0.0,0.0
+FY 2024-25,2024,2025,Export,Petroleum Product,ATF,8553.9555,8.5539555
+FY 2024-25,2024,2025,Export,Petroleum Product,Bitumen,23.0678,0.0230678
+FY 2024-25,2024,2025,Export,Petroleum Product,Fuel Oil,2413.1794,2.4131794
+FY 2024-25,2024,2025,Export,Petroleum Product,HSD,28027.2612,28.0272612
+FY 2024-25,2024,2025,Export,Petroleum Product,LDO,0.0,0.0
+FY 2024-25,2024,2025,Export,Petroleum Product,LOBS/ Lube Oil,17.0496,0.0170496
+FY 2024-25,2024,2025,Export,Petroleum Product,LPG,551.1856,0.5511856
+FY 2024-25,2024,2025,Export,Petroleum Product,MS,15830.4789,15.8304789
+FY 2024-25,2024,2025,Export,Petroleum Product,Naphtha,5168.9983,5.1689983
+FY 2024-25,2024,2025,Export,Petroleum Product,Others,4478.5523,4.4785523000000005
+FY 2024-25,2024,2025,Export,Petroleum Product,SKO,11.9616,0.011961600000000001
+FY 2024-25,2024,2025,Import,Petroleum Product,ATF,0.0146,1.46e-05
+FY 2024-25,2024,2025,Import,Petroleum Product,Bitumen,2899.9153,2.8999153
+FY 2024-25,2024,2025,Import,Petroleum Product,Fuel Oil,7673.9763,7.6739763000000005
+FY 2024-25,2024,2025,Import,Petroleum Product,HSD,41.9474,0.0419474
+FY 2024-25,2024,2025,Import,Petroleum Product,LOBS/ Lube oil,2864.1178,2.8641178
+FY 2024-25,2024,2025,Import,Petroleum Product,LPG,20666.8554,20.6668554
+FY 2024-25,2024,2025,Import,Petroleum Product,MS,234.5835,0.2345835
+FY 2024-25,2024,2025,Import,Petroleum Product,Naphtha,940.6966,0.9406966
+FY 2024-25,2024,2025,Import,Petroleum Product,Others,15580.9109,15.580910900000001
+FY 2024-25,2024,2025,Import,Petroleum Product,SKO,0.0,0.0

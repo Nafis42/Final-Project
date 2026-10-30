@@ -1,0 +1,13 @@
+product_name,weight_metric_tonnes,conversion_factor_barrels_per_mt,unit
+LPG,1,11.6,bbl/MT
+SKO,1,8.1,bbl/MT
+Diesel,1,7.6,bbl/MT
+Petrol,1,8.9,bbl/MT
+Naphtha,1,8.7,bbl/MT
+ATF,1,8.1,bbl/MT
+Bitumen,1,6.1,bbl/MT
+Furnace Oil,1,6.7,bbl/MT
+Lubes,1,7.2,bbl/MT
+Light Diesel Oil,1,7.4,bbl/MT
+Petcoke,1,5.5,bbl/MT
+Product Basket (for Others),1,8.1,bbl/MT

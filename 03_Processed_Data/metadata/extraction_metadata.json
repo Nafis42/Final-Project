@@ -1,0 +1,379 @@
+{
+  "project": "India's Petroleum Supply Chain and Import Exposure: A Historical Analysis of Domestic Production, Refinery Throughput, Petroleum Product Trade and Consumption",
+  "phase": "Phase 2: Data Extraction, Standardisation and Validation",
+  "timestamp_utc": "2026-10-18T18:01:10.702635Z",
+  "pipeline_version": "1.0.0",
+  "author": "Antigravity Pair Programmer",
+  "execution_summary": {
+    "total_source_files_cataloged": 33,
+    "total_source_worksheets_inspected": 241,
+    "raw_extraction_tables_created": 16,
+    "standardized_datasets_created": 16,
+    "dual_serialization_formats": [
+      "CSV",
+      "Parquet"
+    ],
+    "mathematical_reconciliation_checks_passed": 218,
+    "mathematical_reconciliation_checks_failed": 0,
+    "temporal_continuity_checks_passed": 7,
+    "temporal_continuity_checks_failed": 0
+  },
+  "source_data_provenance": {
+    "primary_publisher": "Petroleum Planning & Analysis Cell (PPAC), Ministry of Petroleum and Natural Gas (MoPNG), Government of India",
+    "reporting_standards": "Official Indian Financial Year (1 April to 31 March)",
+    "primary_physical_units": "Thousand Metric Tonnes (TMT) and Million Metric Tonnes (MMT)",
+    "primary_value_units": "Million US$ (USD) and Rs. Crore (INR)",
+    "conversion_standard": "PPAC Official Table 9 Specific Gravity Factors"
+  },
+  "datasets": {
+    "annual_crude_oil_production": {
+      "record_count": 26,
+      "column_count": 20,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "is_provisional",
+        "is_partial_period",
+        "source_period_label",
+        "crude_prod_ongc_mmt",
+        "crude_prod_ongc_tmt",
+        "crude_prod_oil_mmt",
+        "crude_prod_oil_tmt",
+        "crude_prod_psu_total_mmt",
+        "crude_prod_psu_total_tmt",
+        "crude_prod_pvt_jvc_mmt",
+        "crude_prod_pvt_jvc_tmt",
+        "crude_prod_total_crude_mmt",
+        "crude_prod_total_crude_tmt",
+        "condensate_production_mmt",
+        "condensate_production_tmt",
+        "total_crude_and_condensate_mmt",
+        "total_crude_and_condensate_tmt"
+      ],
+      "csv_size_bytes": 4460,
+      "parquet_size_bytes": 17110,
+      "has_parquet": true
+    },
+    "annual_petroleum_import_export_values": {
+      "record_count": 27,
+      "column_count": 17,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "crude_oil_import_value_million_usd",
+        "product_import_value_million_usd",
+        "total_petroleum_import_value_million_usd",
+        "product_export_value_million_usd",
+        "net_petroleum_import_value_million_usd",
+        "crude_oil_import_value_rs_crore",
+        "product_import_value_rs_crore",
+        "total_petroleum_import_value_rs_crore",
+        "product_export_value_rs_crore",
+        "net_petroleum_import_value_rs_crore",
+        "implied_exchange_rate_inr_per_usd",
+        "is_provisional",
+        "source_period_label",
+        "spr_mangalore_excluded_flag"
+      ],
+      "csv_size_bytes": 4825,
+      "parquet_size_bytes": 15724,
+      "has_parquet": true
+    },
+    "annual_petroleum_product_consumption": {
+      "record_count": 29,
+      "column_count": 21,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "is_provisional",
+        "is_partial_period",
+        "sez_dta_sales_included",
+        "source_period_label",
+        "lpg_consumption_tmt",
+        "naphtha_consumption_tmt",
+        "motor_spirit_consumption_tmt",
+        "aviation_turbine_fuel_consumption_tmt",
+        "superior_kerosene_oil_consumption_tmt",
+        "high_speed_diesel_consumption_tmt",
+        "light_diesel_oil_consumption_tmt",
+        "lubricants_greases_consumption_tmt",
+        "fo_lshs_consumption_tmt",
+        "bitumen_consumption_tmt",
+        "petcoke_consumption_tmt",
+        "others_consumption_tmt",
+        "total_petroleum_product_consumption_tmt",
+        "total_petroleum_product_consumption_mmt"
+      ],
+      "csv_size_bytes": 6206,
+      "parquet_size_bytes": 19217,
+      "has_parquet": true
+    },
+    "annual_petroleum_product_consumption_by_product": {
+      "record_count": 348,
+      "column_count": 8,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "product_name",
+        "consumption_tmt",
+        "consumption_mmt",
+        "is_provisional",
+        "sez_dta_sales_included"
+      ],
+      "csv_size_bytes": 22319,
+      "parquet_size_bytes": 12507,
+      "has_parquet": true
+    },
+    "annual_petroleum_product_production": {
+      "record_count": 28,
+      "column_count": 20,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "is_provisional",
+        "is_partial_period",
+        "source_period_label",
+        "lpg_production_tmt",
+        "naphtha_production_tmt",
+        "motor_spirit_production_tmt",
+        "aviation_turbine_fuel_production_tmt",
+        "superior_kerosene_oil_production_tmt",
+        "high_speed_diesel_production_tmt",
+        "light_diesel_oil_production_tmt",
+        "lubricants_production_tmt",
+        "furnace_oil_production_tmt",
+        "low_sulphur_heavy_stock_production_tmt",
+        "bitumen_production_tmt",
+        "others_production_tmt",
+        "total_petroleum_product_production_tmt",
+        "total_petroleum_product_production_mmt"
+      ],
+      "csv_size_bytes": 5508,
+      "parquet_size_bytes": 18314,
+      "has_parquet": true
+    },
+    "annual_petroleum_product_production_by_product": {
+      "record_count": 336,
+      "column_count": 8,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "product_name",
+        "production_tmt",
+        "production_mmt",
+        "is_provisional",
+        "is_partial_period"
+      ],
+      "csv_size_bytes": 19900,
+      "parquet_size_bytes": 11831,
+      "has_parquet": true
+    },
+    "annual_petroleum_product_trade_by_product": {
+      "record_count": 567,
+      "column_count": 8,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "trade_flow",
+        "commodity_category",
+        "product_name",
+        "quantity_tmt",
+        "quantity_mmt"
+      ],
+      "csv_size_bytes": 39944,
+      "parquet_size_bytes": 14151,
+      "has_parquet": true
+    },
+    "annual_petroleum_trade_volumes": {
+      "record_count": 27,
+      "column_count": 21,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "crude_oil_imports_tmt",
+        "crude_oil_imports_mmt",
+        "crude_oil_exports_tmt",
+        "crude_oil_exports_mmt",
+        "net_crude_oil_imports_tmt",
+        "net_crude_oil_imports_mmt",
+        "total_product_imports_tmt",
+        "total_product_imports_mmt",
+        "total_petroleum_imports_tmt",
+        "total_petroleum_imports_mmt",
+        "total_product_exports_tmt",
+        "total_product_exports_mmt",
+        "net_petroleum_imports_tmt",
+        "net_petroleum_imports_mmt",
+        "net_product_exports_tmt",
+        "net_product_exports_mmt",
+        "is_provisional",
+        "source_period_label"
+      ],
+      "csv_size_bytes": 5567,
+      "parquet_size_bytes": 18477,
+      "has_parquet": true
+    },
+    "annual_refinery_crude_processing": {
+      "record_count": 29,
+      "column_count": 22,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "is_provisional",
+        "is_partial_period",
+        "source_period_label",
+        "iocl_throughput_tmt",
+        "bpcl_throughput_tmt",
+        "hpcl_throughput_tmt",
+        "cpcl_throughput_tmt",
+        "mrpl_throughput_tmt",
+        "ongc_throughput_tmt",
+        "nrl_throughput_tmt",
+        "psu_subtotal_throughput_tmt",
+        "jv_subtotal_throughput_tmt",
+        "ril_dta_throughput_tmt",
+        "ril_sez_throughput_tmt",
+        "ril_total_throughput_tmt",
+        "nayara_eol_throughput_tmt",
+        "private_subtotal_throughput_tmt",
+        "grand_total_refinery_throughput_tmt",
+        "grand_total_refinery_throughput_mmt"
+      ],
+      "csv_size_bytes": 4810,
+      "parquet_size_bytes": 17694,
+      "has_parquet": true
+    },
+    "annual_refinery_crude_processing_detailed": {
+      "record_count": 1160,
+      "column_count": 10,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "refinery_or_aggregate_name",
+        "is_aggregate_row",
+        "throughput_tmt",
+        "throughput_mmt",
+        "is_provisional",
+        "is_partial_period",
+        "source_row_number"
+      ],
+      "csv_size_bytes": 99572,
+      "parquet_size_bytes": 22517,
+      "has_parquet": true
+    },
+    "conversion_factors_mt_to_barrels": {
+      "record_count": 12,
+      "column_count": 4,
+      "columns": [
+        "product_name",
+        "weight_metric_tonnes",
+        "conversion_factor_barrels_per_mt",
+        "unit"
+      ],
+      "csv_size_bytes": 355,
+      "parquet_size_bytes": 3296,
+      "has_parquet": true
+    },
+    "crude_oil_fob_price_indian_basket": {
+      "record_count": 26,
+      "column_count": 21,
+      "columns": [
+        "financial_year",
+        "fiscal_year_start",
+        "fiscal_year_end",
+        "annual_average_price_usd_per_bbl",
+        "basket_composition_ratio_sour_to_sweet",
+        "sour_crude_weight_pct",
+        "sweet_crude_weight_pct",
+        "is_provisional",
+        "source_period_label",
+        "price_april_usd_per_bbl",
+        "price_may_usd_per_bbl",
+        "price_june_usd_per_bbl",
+        "price_july_usd_per_bbl",
+        "price_august_usd_per_bbl",
+        "price_september_usd_per_bbl",
+        "price_october_usd_per_bbl",
+        "price_november_usd_per_bbl",
+        "price_december_usd_per_bbl",
+        "price_january_usd_per_bbl",
+        "price_february_usd_per_bbl",
+        "price_march_usd_per_bbl"
+      ],
+      "csv_size_bytes": 4666,
+      "parquet_size_bytes": 18975,
+      "has_parquet": true
+    },
+    "monthly_petroleum_trade_volumes": {
+      "record_count": 4488,
+      "column_count": 7,
+      "columns": [
+        "financial_year",
+        "commodity_name",
+        "month_name",
+        "quantity_tmt",
+        "quantity_mmt",
+        "source_file",
+        "source_sheet"
+      ],
+      "csv_size_bytes": 425055,
+      "parquet_size_bytes": 81852,
+      "has_parquet": true
+    },
+    "monthly_refinery_crude_processing": {
+      "record_count": 5667,
+      "column_count": 7,
+      "columns": [
+        "financial_year",
+        "refinery_or_company_name",
+        "month_name",
+        "throughput_tmt",
+        "throughput_mmt",
+        "source_file",
+        "source_sheet"
+      ],
+      "csv_size_bytes": 625487,
+      "parquet_size_bytes": 102792,
+      "has_parquet": true
+    },
+    "revised_estimates_fy2025_26": {
+      "record_count": 13,
+      "column_count": 5,
+      "columns": [
+        "product_group",
+        "product_name",
+        "revised_estimate_consumption_tmt",
+        "unit",
+        "revised_estimate_consumption_mmt"
+      ],
+      "csv_size_bytes": 759,
+      "parquet_size_bytes": 4130,
+      "has_parquet": true
+    },
+    "statewise_sales_pol_consumption": {
+      "record_count": 2210,
+      "column_count": 6,
+      "columns": [
+        "financial_year",
+        "product_category",
+        "geographic_region",
+        "state_or_territory",
+        "sales_quantity_tmt",
+        "sales_quantity_mmt"
+      ],
+      "csv_size_bytes": 156259,
+      "parquet_size_bytes": 46795,
+      "has_parquet": true
+    }
+  }
+}

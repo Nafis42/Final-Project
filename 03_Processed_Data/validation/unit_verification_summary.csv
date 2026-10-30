@@ -1,0 +1,10 @@
+variable_group,raw_unit,standardized_unit,scaling_factor,status
+Domestic Crude Production,Million Metric Tonnes (MMT),MMT and TMT,"1 MMT = 1,000 TMT",Verified
+Refinery Crude Processing,'000 Metric Tonnes (TMT),TMT and MMT,"Native TMT; 1 MMT = 1,000 TMT",Verified
+Product Production,'000 Metric Tonnes (TMT),TMT and MMT,"Native TMT; 1 MMT = 1,000 TMT",Verified
+Petroleum Trade Volumes,'000 Metric Tonnes (TMT),TMT and MMT,"Native TMT; 1 MMT = 1,000 TMT",Verified
+Petroleum Consumption,'000 Metric Tonnes (TMT),TMT and MMT,"Native TMT; 1 MMT = 1,000 TMT",Verified
+Trade Values (USD),Million US$,Million US$ (Nominal),Native USD Million,Verified
+Trade Values (INR),Rs. Crore,Rs. Crore (Nominal),Native INR Crore (1 Crore = 10 Million INR),Verified
+Indian Crude Basket Price,$/bbl.,US Dollars per Barrel ($/bbl.),Native USD/bbl,Verified
+Product Metric Tonne to Barrels,Specific Gravity / Density,Barrels per MT (bbl/MT),"Official PPAC Table 9 factors (11.6 for LPG, 8.9 for Petrol, 7.6 for Diesel)",Verified

@@ -1,0 +1,325 @@
+reporting_period,financial_year,fiscal_year_start,fiscal_year_end,product_name,export_quantity_tmt,import_quantity_tmt,trade_balance_tmt,export_quantity_mmt,import_quantity_mmt,trade_balance_mmt,trade_status,notes
+FY 1998-99,FY 1998-99,1998,1999,Aviation Turbine Fuel (ATF),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Bitumen,0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Furnace Oil & LSHS Combined,0.0,1696.0,-1696.0,0.0,1.696,-1.696,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,High Speed Diesel (HSD),0.0,10231.0,-10231.0,0.0,10.231,-10.231,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Lubricants & Greases,0.0,396.0,-396.0,0.0,0.396,-0.396,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Liquefied Petroleum Gas (LPG),0.0,1722.0,-1722.0,0.0,1.722,-1.722,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Motor Spirit (Petrol / MS),0.0,251.0,-251.0,0.0,0.251,-0.251,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Naphtha,720.0,2407.0,-1687.0,0.72,2.407,-1.687,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Others,0.0,3.0,-3.0,0.0,0.003,-0.003,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Superior Kerosene Oil (SKO),0.0,7065.0,-7065.0,0.0,7.065,-7.065,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1998-99,FY 1998-99,1998,1999,Total Petroleum Products,720.0,23771.0,-23051.0,0.72,23.771,-23.051,Net Importer,Sum of all petroleum products trade flows.
+FY 1999-00,FY 1999-00,1999,2020,Aviation Turbine Fuel (ATF),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Bitumen,0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Furnace Oil & LSHS Combined,0.0,1377.0,-1377.0,0.0,1.377,-1.377,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,High Speed Diesel (HSD),0.0,5006.0,-5006.0,0.0,5.006,-5.006,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Lubricants & Greases,0.0,407.0,-407.0,0.0,0.407,-0.407,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Liquefied Petroleum Gas (LPG),0.0,1587.0,-1587.0,0.0,1.587,-1.587,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Motor Spirit (Petrol / MS),131.0,0.0,131.0,0.131,0.0,0.131,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Naphtha,583.0,1917.0,-1334.0,0.583,1.917,-1.334,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Others,32.0,1.0,31.0,0.032,0.001,0.031,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Superior Kerosene Oil (SKO),0.0,6312.0,-6312.0,0.0,6.312,-6.312,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 1999-00,FY 1999-00,1999,2020,Total Petroleum Products,746.0,16607.0,-15861.0,0.746,16.607,-15.861,Net Importer,Sum of all petroleum products trade flows.
+FY 2000-01,FY 2000-01,2000,2001,Aviation Turbine Fuel (ATF),160.0,0.0,160.0,0.16,0.0,0.16,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Bitumen,0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Furnace Oil & LSHS Combined,508.0,1728.0,-1220.0,0.508,1.728,-1.22,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,High Speed Diesel (HSD),1597.0,0.0,1597.0,1.597,0.0,1.597,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Light Diesel Oil (LDO),10.0,0.0,10.0,0.01,0.0,0.01,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Lubricants & Greases,0.0,255.0,-255.0,0.0,0.255,-0.255,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Liquefied Petroleum Gas (LPG),0.0,853.0,-853.0,0.0,0.853,-0.853,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Motor Spirit (Petrol / MS),1202.0,0.0,1202.0,1.202,0.0,1.202,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Naphtha,2882.0,3165.0,-283.0,2.882,3.165,-0.283,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Others,2006.0,1348.0,658.0,2.006,1.348,0.658,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Superior Kerosene Oil (SKO),0.0,1918.0,-1918.0,0.0,1.918,-1.918,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2000-01,FY 2000-01,2000,2001,Total Petroleum Products,8365.0,9267.0,-902.0,8.365,9.267,-0.902,Net Importer,Sum of all petroleum products trade flows.
+FY 2001-02,FY 2001-02,2001,2002,Aviation Turbine Fuel (ATF),194.0,0.0,194.0,0.194,0.0,0.194,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Bitumen,0.0,9.0,-9.0,0.0,0.009,-0.009,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Furnace Oil & LSHS Combined,482.0,1977.0,-1495.0,0.482,1.977,-1.495,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,High Speed Diesel (HSD),2860.0,31.0,2829.0,2.86,0.031,2.829,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Light Diesel Oil (LDO),30.0,0.0,30.0,0.03,0.0,0.03,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Lubricants & Greases,0.0,326.0,-326.0,0.0,0.326,-0.326,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Liquefied Petroleum Gas (LPG),0.0,659.0,-659.0,0.0,0.659,-0.659,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Motor Spirit (Petrol / MS),2406.0,0.0,2406.0,2.406,0.0,2.406,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Naphtha,2535.0,3308.0,-773.0,2.535,3.308,-0.773,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Others,1578.0,308.0,1270.0,1.578,0.308,1.27,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Superior Kerosene Oil (SKO),0.0,391.0,-391.0,0.0,0.391,-0.391,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2001-02,FY 2001-02,2001,2002,Total Petroleum Products,10085.0,7009.0,3076.0,10.085,7.009,3.076,Net Exporter,Sum of all petroleum products trade flows.
+FY 2002-03,FY 2002-03,2002,2003,Aviation Turbine Fuel (ATF),697.0,0.0,697.0,0.697,0.0,0.697,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Bitumen,0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Furnace Oil & LSHS Combined,1120.0,2220.0,-1100.0,1.12,2.22,-1.1,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,High Speed Diesel (HSD),3178.0,106.0,3072.0,3.178,0.106,3.072,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Lubricants & Greases,0.0,340.0,-340.0,0.0,0.34,-0.34,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Liquefied Petroleum Gas (LPG),0.0,1073.0,-1073.0,0.0,1.073,-1.073,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Motor Spirit (Petrol / MS),2336.0,0.0,2336.0,2.336,0.0,2.336,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Naphtha,2067.0,2784.0,-717.0,2.067,2.784,-0.717,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Others,868.0,7.0,861.0,0.868,0.007,0.861,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Superior Kerosene Oil (SKO),0.0,698.0,-698.0,0.0,0.698,-0.698,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2002-03,FY 2002-03,2002,2003,Total Petroleum Products,10266.0,7228.0,3038.0,10.266,7.228,3.038,Net Exporter,Sum of all petroleum products trade flows.
+FY 2003-04,FY 2003-04,2003,2004,Aviation Turbine Fuel (ATF),1660.0,0.0,1660.0,1.66,0.0,1.66,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Bitumen,4.0,6.0,-2.0,0.004,0.006,-0.002,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Furnace Oil & LSHS Combined,1310.0,1728.0,-418.0,1.31,1.728,-0.418,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,High Speed Diesel (HSD),6181.0,100.0,6081.0,6.181,0.1,6.081,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Lubricants & Greases,0.0,612.0,-612.0,0.0,0.612,-0.612,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Liquefied Petroleum Gas (LPG),0.0,1708.0,-1708.0,0.0,1.708,-1.708,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Motor Spirit (Petrol / MS),2979.0,0.0,2979.0,2.979,0.0,2.979,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Naphtha,2176.0,2371.0,-195.0,2.176,2.371,-0.195,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Others,293.0,672.0,-379.0,0.293,0.672,-0.379,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Superior Kerosene Oil (SKO),0.0,804.0,-804.0,0.0,0.804,-0.804,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2003-04,FY 2003-04,2003,2004,Total Petroleum Products,14603.0,8001.0,6602.0,14.603,8.001,6.602,Net Exporter,Sum of all petroleum products trade flows.
+FY 2004-05,FY 2004-05,2004,2005,Aviation Turbine Fuel (ATF),2480.0,0.0,2480.0,2.48,0.0,2.48,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Bitumen,47.0,21.0,26.0,0.047,0.021,0.026,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Furnace Oil & LSHS Combined,1792.0,1585.0,207.0,1.792,1.585,0.207,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,High Speed Diesel (HSD),7286.0,814.0,6472.0,7.286,0.814,6.472,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Lubricants & Greases,0.0,557.0,-557.0,0.0,0.557,-0.557,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Liquefied Petroleum Gas (LPG),145.0,2334.0,-2189.0,0.145,2.334,-2.189,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Motor Spirit (Petrol / MS),2897.0,233.0,2664.0,2.897,0.233,2.664,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Naphtha,2926.0,2214.0,712.0,2.926,2.214,0.712,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Others,427.0,860.0,-433.0,0.427,0.86,-0.433,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Superior Kerosene Oil (SKO),207.0,210.0,-3.0,0.207,0.21,-0.003,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2004-05,FY 2004-05,2004,2005,Total Petroleum Products,18207.0,8828.0,9379.0,18.207,8.828,9.379,Net Exporter,Sum of all petroleum products trade flows.
+FY 2005-06,FY 2005-06,2005,2006,Aviation Turbine Fuel (ATF),2828.0,0.0,2828.0,2.828,0.0,2.828,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Bitumen,33.0,23.0,10.0,0.033,0.023,0.01,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Furnace Oil & LSHS Combined,1815.0,2015.0,-200.0,1.815,2.015,-0.2,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,High Speed Diesel (HSD),8504.0,801.0,7703.0,8.504,0.801,7.703,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Light Diesel Oil (LDO),0.2,0.0,0.2,0.0002,0.0,0.0002,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Lubricants & Greases,0.0,1189.0,-1189.0,0.0,1.189,-1.189,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Liquefied Petroleum Gas (LPG),53.0,2883.0,-2830.0,0.053,2.883,-2.83,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Motor Spirit (Petrol / MS),2417.0,486.0,1931.0,2.417,0.486,1.931,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Naphtha,5066.0,2331.0,2735.0,5.066,2.331,2.735,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Others,2333.0,2669.0,-336.0,2.333,2.669,-0.336,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Superior Kerosene Oil (SKO),121.0,1044.0,-923.0,0.121,1.044,-0.923,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2005-06,FY 2005-06,2005,2006,Total Petroleum Products,23170.2,13441.0,9729.2,23.1702,13.441,9.7292,Net Exporter,Sum of all petroleum products trade flows.
+FY 2006-07,FY 2006-07,2006,2007,Aviation Turbine Fuel (ATF),3652.0,0.0,3652.0,3.652,0.0,3.652,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Bitumen,66.0,14.0,52.0,0.066,0.014,0.052,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Furnace Oil & LSHS Combined,3759.0,2983.0,776.0,3.759,2.983,0.776,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,High Speed Diesel (HSD),11369.0,968.0,10401.0,11.369,0.968,10.401,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Light Diesel Oil (LDO),0.1,0.0,0.1,0.0001,0.0,0.0001,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Lubricants & Greases,0.0,1021.0,-1021.0,0.0,1.021,-1.021,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Liquefied Petroleum Gas (LPG),112.0,2278.0,-2166.0,0.112,2.278,-2.166,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Motor Spirit (Petrol / MS),3615.0,421.0,3194.0,3.615,0.421,3.194,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Naphtha,8411.0,5307.0,3104.0,8.411,5.307,3.104,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Others,1980.0,3244.0,-1264.0,1.98,3.244,-1.264,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Superior Kerosene Oil (SKO),150.0,1424.0,-1274.0,0.15,1.424,-1.274,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2006-07,FY 2006-07,2006,2007,Total Petroleum Products,33114.1,17660.0,15454.099999999999,33.1141,17.66,15.454099999999999,Net Exporter,Sum of all petroleum products trade flows.
+FY 2007-08,FY 2007-08,2007,2008,Aviation Turbine Fuel (ATF),4486.0,0.0,4486.0,4.486,0.0,4.486,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Bitumen,43.0,35.0,8.0,0.043,0.035,0.008,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Furnace Oil & LSHS Combined,4718.0,3659.0,1059.0,4.718,3.659,1.059,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,High Speed Diesel (HSD),14308.0,2951.0,11357.0,14.308,2.951,11.357,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Lubricants & Greases,0.0,1253.0,-1253.0,0.0,1.253,-1.253,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Liquefied Petroleum Gas (LPG),99.0,2833.0,-2734.0,0.099,2.833,-2.734,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Motor Spirit (Petrol / MS),4258.0,328.0,3930.0,4.258,0.328,3.93,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Naphtha,9297.0,5983.0,3314.0,9.297,5.983,3.314,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Others,3122.0,2931.0,191.0,3.122,2.931,0.191,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Superior Kerosene Oil (SKO),137.0,2489.0,-2352.0,0.137,2.489,-2.352,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2007-08,FY 2007-08,2007,2008,Total Petroleum Products,40468.0,22462.0,18006.0,40.468,22.462,18.006,Net Exporter,Sum of all petroleum products trade flows.
+FY 2008-09,FY 2008-09,2008,2009,Aviation Turbine Fuel (ATF),3701.0,0.0,3701.0,3.701,0.0,3.701,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Bitumen,45.0,104.6479,-59.64790000000001,0.045,0.1046479,-0.059647900000000004,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Furnace Oil & LSHS Combined,6207.0,2759.628,3447.372,6.207,2.759628,3.4473719999999997,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,High Speed Diesel (HSD),14720.0,2742.358,11977.642,14.72,2.7423580000000003,11.977642,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Light Diesel Oil (LDO),0.4,0.0,0.4,0.0004,0.0,0.0004,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Lubricants & Greases,0.0,985.9779,-985.9779,0.0,0.9859779,-0.9859779,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Liquefied Petroleum Gas (LPG),109.0,2422.568,-2313.568,0.109,2.422568,-2.313568,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Motor Spirit (Petrol / MS),5440.0,397.41,5042.59,5.44,0.39741000000000004,5.042590000000001,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Naphtha,7601.0,5022.631,2578.3689999999997,7.601,5.0226310000000005,2.5783689999999995,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Others,905.0,2701.8166,-1796.8166,0.905,2.7018166,-1.7968166,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Superior Kerosene Oil (SKO),77.0,1448.15,-1371.15,0.077,1.44815,-1.37115,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2008-09,FY 2008-09,2008,2009,Total Petroleum Products,38805.4,18585.187400000003,20220.2126,38.8054,18.585187400000002,20.2202126,Net Exporter,Sum of all petroleum products trade flows.
+FY 2009-10,FY 2009-10,2009,2010,Aviation Turbine Fuel (ATF),4588.0,0.0,4588.0,4.588,0.0,4.588,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Bitumen,31.0,69.0,-38.0,0.031,0.069,-0.038,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Furnace Oil & LSHS Combined,5186.066,896.0,4290.066,5.186065999999999,0.896,4.2900659999999995,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,High Speed Diesel (HSD),18451.0,2531.0,15920.0,18.451,2.531,15.92,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Light Diesel Oil (LDO),41.0,0.0,41.0,0.041,0.0,0.041,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Lubricants & Greases,0.0,1419.0,-1419.0,0.0,1.419,-1.419,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Liquefied Petroleum Gas (LPG),131.0,2718.0,-2587.0,0.131,2.718,-2.587,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Motor Spirit (Petrol / MS),9771.0,385.0,9386.0,9.771,0.385,9.386,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Naphtha,10042.68,1734.0,8308.68,10.04268,1.734,8.30868,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Others,2839.173,3928.0,-1088.8270000000002,2.8391729999999997,3.928,-1.0888270000000002,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Superior Kerosene Oil (SKO),46.0,985.0,-939.0,0.046,0.985,-0.939,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2009-10,FY 2009-10,2009,2010,Total Petroleum Products,51126.919,14665.0,36461.919,51.126919,14.665,36.461919,Net Exporter,Sum of all petroleum products trade flows.
+FY 2010-11,FY 2010-11,2010,2011,Aviation Turbine Fuel (ATF),4478.093,0.0,4478.093,4.478092999999999,0.0,4.478092999999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Bitumen,56.0,98.004,-42.004000000000005,0.056,0.09800400000000001,-0.04200400000000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Furnace Oil & LSHS Combined,6734.0,1012.7708,5721.2292,6.734,1.0127708,5.7212292,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,High Speed Diesel (HSD),20335.0,1996.2493,18338.7507,20.335,1.9962493,18.338750700000002,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Light Diesel Oil (LDO),98.0,0.0,98.0,0.098,0.0,0.098,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Lubricants & Greases,0.0,1291.257,-1291.257,0.0,1.291257,-1.291257,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Liquefied Petroleum Gas (LPG),154.0,4484.3425,-4330.3425,0.154,4.4843424999999995,-4.3303424999999995,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Motor Spirit (Petrol / MS),13578.0,1702.2146,11875.7854,13.578,1.7022146,11.8757854,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Naphtha,10655.0,2062.518,8592.482,10.655,2.062518,8.592482,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Others,2927.0,3351.5646,-424.56460000000015,2.927,3.3515646,-0.4245646000000002,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Superior Kerosene Oil (SKO),33.0,1380.5205,-1347.5205,0.033,1.3805205,-1.3475205000000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2010-11,FY 2010-11,2010,2011,Total Petroleum Products,59048.093,17379.4413,41668.6517,59.048093,17.3794413,41.668651700000005,Net Exporter,Sum of all petroleum products trade flows.
+FY 2011-12,FY 2011-12,2011,2012,Aviation Turbine Fuel (ATF),4560.7966,0.0,4560.7966,4.5607966,0.0,4.5607966,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Bitumen,4.538,77.8404,-73.3024,0.004538,0.0778404,-0.0733024,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Furnace Oil & LSHS Combined,7895.4939,1202.6921,6692.8018,7.8954939,1.2026921,6.6928018,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,High Speed Diesel (HSD),20406.9068,1058.9997,19347.9071,20.4069068,1.0589997,19.3479071,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Light Diesel Oil (LDO),84.104,0.0,84.104,0.084104,0.0,0.084104,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Lubricants & Greases,0.0,1434.208,-1434.208,0.0,1.4342080000000001,-1.4342080000000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Liquefied Petroleum Gas (LPG),174.4432,5790.0342,-5615.591,0.1744432,5.7900342,-5.615591,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Motor Spirit (Petrol / MS),14523.5031,653.7809,13869.7222,14.5235031,0.6537809,13.8697222,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Naphtha,10138.729,2090.5393,8048.189699999999,10.138729,2.0905393,8.048189699999998,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Others,2988.0818,2977.1758,10.905999999999949,2.9880818,2.9771758,0.010905999999999949,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Superior Kerosene Oil (SKO),33.5989,564.1,-530.5011000000001,0.0335989,0.5641,-0.5305011000000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2011-12,FY 2011-12,2011,2012,Total Petroleum Products,60810.1953,15849.370400000002,44960.8249,60.8101953,15.849370400000002,44.9608249,Net Exporter,Sum of all petroleum products trade flows.
+FY 2012-13,FY 2012-13,2012,2013,Aviation Turbine Fuel (ATF),4663.6705,0.0,4663.6705,4.6636705,0.0,4.6636705,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Bitumen,86.8872,101.6515,-14.764299999999992,0.08688720000000001,0.10165149999999999,-0.014764299999999992,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Furnace Oil & LSHS Combined,5921.7535,1037.7052,4884.0482999999995,5.9217534999999994,1.0377052,4.8840483,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,High Speed Diesel (HSD),22464.0385,527.8851,21936.1534,22.464038499999997,0.5278851,21.9361534,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Light Diesel Oil (LDO),9.1828,0.0,9.1828,0.0091828,0.0,0.0091828,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Lubricants & Greases,0.0,1976.8259,-1976.8259,0.0,1.9768259000000001,-1.9768259000000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Liquefied Petroleum Gas (LPG),200.4651,6300.797,-6100.331899999999,0.2004651,6.300796999999999,-6.1003319,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Motor Spirit (Petrol / MS),16657.1496,146.8283,16510.3213,16.6571496,0.14682830000000002,16.5103213,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Naphtha,8647.1058,1761.7347,6885.371099999999,8.647105799999999,1.7617346999999999,6.8853710999999995,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Others,4675.2873,4500.692,174.59529999999995,4.6752873,4.500692,0.17459529999999995,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Superior Kerosene Oil (SKO),23.1676,0.0,23.1676,0.0231676,0.0,0.0231676,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2012-13,FY 2012-13,2012,2013,Total Petroleum Products,63348.70790000001,16354.1197,46994.58820000001,63.34870790000001,16.3541197,46.99458820000001,Net Exporter,Sum of all petroleum products trade flows.
+FY 2013-14,FY 2013-14,2013,2014,Aviation Turbine Fuel (ATF),5744.5129,0.0,5744.5129,5.7445129,0.0,5.7445129,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Bitumen,94.8774,245.9214,-151.044,0.0948774,0.2459214,-0.151044,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Furnace Oil & LSHS Combined,6159.2841,1331.4852,4827.7989,6.1592841,1.3314852000000001,4.8277988999999994,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,High Speed Diesel (HSD),26468.7224,76.648,26392.074399999998,26.468722399999997,0.076648,26.3920744,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Light Diesel Oil (LDO),29.8,0.0,29.8,0.0298,0.0,0.0298,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Lubricants & Greases,0.0,2090.0204,-2090.0204,0.0,2.0900204,-2.0900204,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Liquefied Petroleum Gas (LPG),227.3474,6567.4136,-6340.0662,0.2273474,6.5674136,-6.3400662,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Motor Spirit (Petrol / MS),15246.6435,235.3197,15011.3238,15.2466435,0.23531970000000002,15.0113238,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Naphtha,8321.9901,1020.2224,7301.767700000001,8.3219901,1.0202224,7.301767700000001,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Others,5535.3798,5129.9739,405.40589999999975,5.535379799999999,5.1299738999999995,0.40540589999999976,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Superior Kerosene Oil (SKO),15.2457,0.0,15.2457,0.0152457,0.0,0.0152457,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2013-14,FY 2013-14,2013,2014,Total Petroleum Products,67843.8033,16697.0046,51146.7987,67.8438033,16.6970046,51.1467987,Net Exporter,Sum of all petroleum products trade flows.
+FY 2014-15,FY 2014-15,2014,2015,Aviation Turbine Fuel (ATF),5519.9994,139.63,5380.3694,5.5199994,0.13963,5.380369399999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Bitumen,94.491,517.0014,-422.5104,0.094491,0.5170013999999999,-0.4225104,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Furnace Oil & LSHS Combined,4762.4353,902.0672,3860.3681,4.7624353,0.9020672,3.8603681,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,High Speed Diesel (HSD),25559.2634,123.6344,25435.629,25.5592634,0.1236344,25.435629000000002,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Light Diesel Oil (LDO),6.3905,0.0,6.3905,0.0063905,0.0,0.0063905,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Lubricants & Greases,0.0,2148.111,-2148.111,0.0,2.1481109999999997,-2.1481109999999997,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Liquefied Petroleum Gas (LPG),253.5463,8313.3946,-8059.8483,0.2535463,8.313394599999999,-8.0598483,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Motor Spirit (Petrol / MS),16047.6817,371.7744,15675.907299999999,16.0476817,0.3717744,15.675907299999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Naphtha,7008.3976,1034.2663,5974.1313,7.0083976,1.0342663,5.9741313,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Others,4653.3515,7721.6438,-3068.2923,4.653351499999999,7.7216438,-3.0682923,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Superior Kerosene Oil (SKO),15.1442,29.6384,-14.494200000000001,0.0151442,0.029638400000000002,-0.0144942,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2014-15,FY 2014-15,2014,2015,Total Petroleum Products,63920.70090000001,21301.1615,42619.53940000001,63.920700900000014,21.3011615,42.61953940000001,Net Exporter,Sum of all petroleum products trade flows.
+FY 2015-16,FY 2015-16,2015,2016,Aviation Turbine Fuel (ATF),5686.0629,285.749,5400.3139,5.6860629,0.28574900000000003,5.4003139000000004,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Bitumen,100.9424,879.0078,-778.0654,0.1009424,0.8790078,-0.7780653999999999,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Furnace Oil & LSHS Combined,2805.8996,1169.8403,1636.0593000000001,2.8058996,1.1698403000000002,1.6360593,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,High Speed Diesel (HSD),24037.3865,177.3915,23859.995,24.0373865,0.1773915,23.859994999999998,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Lubricants & Greases,0.0,2264.368,-2264.368,0.0,2.264368,-2.264368,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Liquefied Petroleum Gas (LPG),195.2036,8959.1988,-8763.9952,0.1952036,8.9591988,-8.7639952,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Motor Spirit (Petrol / MS),16816.6281,1012.4412,15804.186900000002,16.816628100000003,1.0124412,15.804186900000003,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Naphtha,7116.1005,2931.1849,4184.915599999999,7.1161005,2.9311849000000003,4.184915599999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Others,3753.3754,11735.4225,-7982.047100000001,3.7533754,11.7354225,-7.982047100000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Superior Kerosene Oil (SKO),9.7174,41.1503,-31.432900000000004,0.0097174,0.0411503,-0.03143290000000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2015-16,FY 2015-16,2015,2016,Total Petroleum Products,60521.3164,29455.7543,31065.562100000003,60.5213164,29.4557543,31.0655621,Net Exporter,Sum of all petroleum products trade flows.
+FY 2016-17,FY 2016-17,2016,2017,Aviation Turbine Fuel (ATF),7270.5991,337.54,6933.0591,7.2705991,0.33754,6.9330591,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Bitumen,37.8073,950.754,-912.9467,0.037807299999999995,0.950754,-0.9129467,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Furnace Oil & LSHS Combined,2247.5004,924.6449,1322.8555,2.2475004,0.9246449,1.3228555,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,High Speed Diesel (HSD),27302.1207,1008.14,26293.9807,27.3021207,1.00814,26.2939807,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Light Diesel Oil (LDO),150.5849,0.0,150.5849,0.1505849,0.0,0.1505849,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Lubricants & Greases,0.0,2130.889,-2130.889,0.0,2.1308890000000003,-2.1308890000000003,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Liquefied Petroleum Gas (LPG),316.7459,11097.2948,-10780.5489,0.3167459,11.0972948,-10.7805489,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Motor Spirit (Petrol / MS),15416.5077,476.2468,14940.2609,15.4165077,0.4762468,14.9402609,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Naphtha,8726.6956,2776.8219,5949.873699999999,8.7266956,2.7768219,5.9498736999999995,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Others,4016.81,16584.8946,-12568.0846,4.0168099999999995,16.5848946,-12.5680846,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Superior Kerosene Oil (SKO),15.3887,0.0,15.3887,0.0153887,0.0,0.0153887,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2016-17,FY 2016-17,2016,2017,Total Petroleum Products,65500.7603,36287.225999999995,29213.534300000007,65.5007603,36.287226,29.213534300000006,Net Exporter,Sum of all petroleum products trade flows.
+FY 2017-18,FY 2017-18,2017,2018,Aviation Turbine Fuel (ATF),7182.5175,300.076,6882.4415,7.1825175,0.300076,6.8824415,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Bitumen,63.8705,950.2539,-886.3834,0.0638705,0.9502539000000001,-0.8863834,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Furnace Oil & LSHS Combined,2525.0647,1212.8578,1312.2069,2.5250646999999997,1.2128578,1.3122068999999998,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,High Speed Diesel (HSD),29717.0598,1360.5506,28356.5092,29.717059799999998,1.3605506,28.3565092,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Light Diesel Oil (LDO),18.1752,0.0,18.1752,0.0181752,0.0,0.0181752,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Lubricants & Greases,0.0,2538.7784,-2538.7784,0.0,2.5387784,-2.5387784,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Liquefied Petroleum Gas (LPG),359.291,11379.5793,-11020.2883,0.35929099999999997,11.3795793,-11.0202883,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Motor Spirit (Petrol / MS),14036.3116,173.6307,13862.680900000001,14.036311600000001,0.1736307,13.8626809,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Naphtha,8951.4179,2211.63,6739.7879,8.951417900000001,2.21163,6.7397879000000005,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Others,3948.5075,15333.4781,-11384.9706,3.9485075000000003,15.3334781,-11.3849706,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Superior Kerosene Oil (SKO),17.2434,0.0,17.2434,0.017243400000000002,0.0,0.017243400000000002,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2017-18,FY 2017-18,2017,2018,Total Petroleum Products,66819.45910000001,35460.8348,31358.62430000001,66.8194591,35.46083479999999,31.35862430000001,Net Exporter,Sum of all petroleum products trade flows.
+FY 2018-19,FY 2018-19,2018,2019,Aviation Turbine Fuel (ATF),7389.0568,258.761,7130.2958,7.3890568000000005,0.258761,7.1302958,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Bitumen,22.6875,877.2976,-854.6101,0.0226875,0.8772976,-0.8546101,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Furnace Oil & LSHS Combined,2196.5685,1419.3999,777.1686,2.1965684999999997,1.4193999,0.7771686,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,High Speed Diesel (HSD),27832.7196,555.4527,27277.2669,27.8327196,0.5554527,27.277266899999997,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Light Diesel Oil (LDO),98.71,0.0,98.71,0.09870999999999999,0.0,0.09870999999999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Lubricants & Greases,0.0,2456.6861,-2456.6861,0.0,2.4566860999999998,-2.4566860999999998,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Liquefied Petroleum Gas (LPG),416.968,13235.0561,-12818.088099999999,0.416968,13.2350561,-12.818088099999999,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Motor Spirit (Petrol / MS),12884.9466,669.7967,12215.149899999999,12.8849466,0.6697967,12.215149899999998,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Naphtha,6963.4803,2081.5549,4881.9254,6.9634803000000005,2.0815549,4.8819254,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Others,3263.7029,11794.3191,-8530.6162,3.2637029,11.794319100000001,-8.5306162,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Superior Kerosene Oil (SKO),18.7489,0.0,18.7489,0.0187489,0.0,0.0187489,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2018-19,FY 2018-19,2018,2019,Total Petroleum Products,61087.58909999999,33348.3241,27739.264999999992,61.08758909999999,33.3483241,27.739264999999993,Net Exporter,Sum of all petroleum products trade flows.
+FY 2019-20,FY 2019-20,2019,2020,Aviation Turbine Fuel (ATF),6906.4776,64.9134,6841.5642,6.9064776000000005,0.0649134,6.8415642,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Bitumen,25.3439,1629.6207,-1604.2767999999999,0.025343900000000003,1.6296207,-1.6042767999999998,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Furnace Oil & LSHS Combined,1527.0172,4582.959,-3055.9417999999996,1.5270172,4.582959,-3.0559418,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,High Speed Diesel (HSD),31653.3671,2795.6505,28857.7166,31.6533671,2.7956505000000003,28.8577166,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Lubricants & Greases,0.0,2674.6144,-2674.6144,0.0,2.6746144,-2.6746144,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Liquefied Petroleum Gas (LPG),463.2579,14808.5983,-14345.3404,0.4632579,14.8085983,-14.3453404,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Motor Spirit (Petrol / MS),12710.2516,2146.0055,10564.2461,12.7102516,2.1460055000000002,10.5642461,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Naphtha,8896.6411,1661.9429,7234.698200000001,8.8966411,1.6619429000000001,7.2346982,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Others,3318.8837,13423.3062,-10104.4225,3.3188836999999998,13.4233062,-10.1044225,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Superior Kerosene Oil (SKO),176.2154,0.0,176.2154,0.1762154,0.0,0.1762154,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2019-20,FY 2019-20,2019,2020,Total Petroleum Products,65677.4555,43787.6109,21889.844599999997,65.6774555,43.7876109,21.889844599999996,Net Exporter,Sum of all petroleum products trade flows.
+FY 2020-21,FY 2020-21,2020,2021,Aviation Turbine Fuel (ATF),3544.3877,0.0003,3544.3874,3.5443877,3e-07,3.5443874,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Bitumen,6.9445,2054.8013,-2047.8568,0.006944499999999999,2.0548013000000003,-2.0478568,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Furnace Oil & LSHS Combined,1177.3709,6454.3539,-5276.983,1.1773708999999999,6.4543539,-5.276983,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,High Speed Diesel (HSD),30575.8803,648.1976,29927.6827,30.5758803,0.6481975999999999,29.927682700000002,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Lubricants & Greases,0.0,2692.6659,-2692.6659,0.0,2.6926659,-2.6926659,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Liquefied Petroleum Gas (LPG),451.9865,16475.9377,-16023.9512,0.45198649999999996,16.4759377,-16.0239512,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Motor Spirit (Petrol / MS),11605.8333,1351.2521,10254.5812,11.6058333,1.3512521,10.2545812,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Naphtha,6509.1124,1199.1391,5309.9733,6.5091124,1.1991391,5.309973299999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Others,2867.192,12368.5485,-9501.356500000002,2.867192,12.368548500000001,-9.501356500000002,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Superior Kerosene Oil (SKO),15.1288,2.7668,12.362,0.0151288,0.0027668,0.012362,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2020-21,FY 2020-21,2020,2021,Total Petroleum Products,56753.8364,43247.663199999995,13506.173200000005,56.7538364,43.2476632,13.506173200000005,Net Exporter,Sum of all petroleum products trade flows.
+FY 2021-22,FY 2021-22,2021,2022,Aviation Turbine Fuel (ATF),5185.513,0.0,5185.513,5.185513,0.0,5.185513,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Bitumen,6.174,2580.5266,-2574.3526,0.006174000000000001,2.5805266000000002,-2.5743526,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Furnace Oil & LSHS Combined,1757.3215,8980.4642,-7223.1427,1.7573215,8.9804642,-7.2231427,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,High Speed Diesel (HSD),32407.1541,43.4334,32363.720699999998,32.4071541,0.0434334,32.363720699999995,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Light Diesel Oil (LDO),0.0371,0.0,0.0371,3.71e-05,0.0,3.71e-05,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Lubricants & Greases,0.0,3058.3419,-3058.3419,0.0,3.0583419,-3.0583419,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Liquefied Petroleum Gas (LPG),512.8561,17043.3535,-16530.4974,0.5128560999999999,17.043353500000002,-16.5304974,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Motor Spirit (Petrol / MS),13482.4841,670.8826,12811.601499999999,13.482484099999999,0.6708826,12.811601499999998,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Naphtha,6861.1196,236.9372,6624.1824,6.8611196,0.2369372,6.6241824,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Others,2517.1991,6402.7421,-3885.5430000000006,2.5171991,6.4027421,-3.8855430000000006,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Superior Kerosene Oil (SKO),14.3208,0.0,14.3208,0.0143208,0.0,0.0143208,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2021-22,FY 2021-22,2021,2022,Total Petroleum Products,62744.17939999999,39016.6815,23727.497899999995,62.74417939999999,39.0166815,23.727497899999996,Net Exporter,Sum of all petroleum products trade flows.
+FY 2022-23,FY 2022-23,2022,2023,Aviation Turbine Fuel (ATF),7263.5654,0.0,7263.5654,7.2635654,0.0,7.2635654,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Bitumen,8.7878,2797.4497,-2788.6619,0.0087878,2.7974497,-2.7886619,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Furnace Oil & LSHS Combined,1840.9374,8562.5943,-6721.656900000001,1.8409374,8.5625943,-6.721656900000001,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,High Speed Diesel (HSD),28494.4339,322.398,28172.0359,28.4944339,0.322398,28.172035899999997,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Light Diesel Oil (LDO),1.4897,0.0,1.4897,0.0014897,0.0,0.0014897,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Lubricants & Greases,0.0,2152.2551,-2152.2551,0.0,2.1522550999999996,-2.1522550999999996,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Liquefied Petroleum Gas (LPG),539.5247,18335.4415,-17795.9168,0.5395247000000001,18.3354415,-17.7959168,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Motor Spirit (Petrol / MS),13126.853,1068.7007,12058.1523,13.126852999999999,1.0687007000000002,12.0581523,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Naphtha,5714.104,896.5256,4817.5784,5.714104,0.8965256,4.8175784,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Others,4000.6013,10462.5084,-6461.9071,4.0006013,10.4625084,-6.4619071,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Superior Kerosene Oil (SKO),10.8333,0.0,10.8333,0.010833299999999999,0.0,0.010833299999999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2022-23,FY 2022-23,2022,2023,Total Petroleum Products,61001.1305,44597.8733,16403.2572,61.0011305,44.597873299999996,16.4032572,Net Exporter,Sum of all petroleum products trade flows.
+FY 2023-24,FY 2023-24,2023,2024,Aviation Turbine Fuel (ATF),8579.3739,0.0024,8579.371500000001,8.5793739,2.4e-06,8.5793715,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Bitumen,17.5647,3243.6173,-3226.0526,0.0175647,3.2436173,-3.2260526,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Furnace Oil & LSHS Combined,2102.9561,9052.6393,-6949.683200000001,2.1029560999999997,9.052639300000001,-6.949683200000002,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,High Speed Diesel (HSD),28204.4419,42.0589,28162.383,28.204441900000003,0.0420589,28.162383000000002,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Light Diesel Oil (LDO),0.054,0.0,0.054,5.4e-05,0.0,5.4e-05,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Lubricants & Greases,0.0,2412.4713,-2412.4713,0.0,2.4124713,-2.4124713,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Liquefied Petroleum Gas (LPG),525.382,18514.1973,-17988.8153,0.5253819999999999,18.5141973,-17.9888153,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Motor Spirit (Petrol / MS),13472.4777,717.401,12755.0767,13.472477699999999,0.717401,12.7550767,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Naphtha,5275.2697,1210.7779,4064.4918,5.2752697,1.2107779,4.0644918,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Others,4389.6473,13499.6596,-9110.012300000002,4.3896473,13.499659600000001,-9.110012300000003,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Superior Kerosene Oil (SKO),10.891,0.0,10.891,0.010891,0.0,0.010891,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2023-24,FY 2023-24,2023,2024,Total Petroleum Products,62578.0583,48692.825,13885.2333,62.578058299999995,48.692825,13.8852333,Net Exporter,Sum of all petroleum products trade flows.
+FY 2024-25,FY 2024-25,2024,2025,Aviation Turbine Fuel (ATF),8553.9555,0.0146,8553.9409,8.5539555,1.46e-05,8.553940899999999,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Bitumen,23.0678,2899.9153,-2876.8475000000003,0.0230678,2.8999153,-2.8768475000000002,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Furnace Oil & LSHS Combined,2413.1794,7673.9763,-5260.7969,2.4131794,7.6739763000000005,-5.2607969,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,High Speed Diesel (HSD),28027.2612,41.9474,27985.3138,28.0272612,0.0419474,27.9853138,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Light Diesel Oil (LDO),0.0,0.0,0.0,0.0,0.0,0.0,Balanced,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Lubricants & Greases,0.0,2864.1178,-2864.1178,0.0,2.8641178,-2.8641178,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Liquefied Petroleum Gas (LPG),551.1856,20666.8554,-20115.6698,0.5511856,20.6668554,-20.1156698,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Motor Spirit (Petrol / MS),15830.4789,234.5835,15595.8954,15.8304789,0.2345835,15.5958954,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Naphtha,5168.9983,940.6966,4228.3017,5.1689983,0.9406966,4.2283017,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Others,4478.5523,15580.9109,-11102.3586,4.4785523000000005,15.580910900000001,-11.102358599999999,Net Importer,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Superior Kerosene Oil (SKO),11.9616,0.0,11.9616,0.011961600000000001,0.0,0.011961600000000001,Net Exporter,Positive = Net Exporter; Negative = Net Importer. Sourced from PT_IMPORT_TMT_H.
+FY 2024-25,FY 2024-25,2024,2025,Total Petroleum Products,65058.640600000006,50903.01780000001,14155.622799999997,65.0586406,50.90301780000001,14.155622799999998,Net Exporter,Sum of all petroleum products trade flows.
