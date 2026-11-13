@@ -1,0 +1,57 @@
+Section,Subsection,Data_Item,Value,Source_File,Source_Series,Verification_Status,Notes
+Abstract,Full,Domestic production CAGR,-0.44%,core_annual_petroleum_dataset.csv,domestic_crude_production_mmt FY99-FY24,VERIFIED,Computed from 32.760 to 29.356 MMT over 25 years
+Abstract,Full,Crude import CAGR,+7.35%,core_annual_petroleum_dataset.csv,crude_import_quantity_mmt FY99-FY24,VERIFIED,39.808 to 234.262 MMT
+Abstract,Full,Refinery throughput growth,+281.6%,core_annual_petroleum_dataset.csv,refinery_crude_processing_mmt,VERIFIED,68.539 to 261.546 MMT
+Abstract,Full,Crude import dependency FY99,58.1%,core_annual_petroleum_dataset.csv,M/R ratio FY99,VERIFIED,39.808/68.539
+Abstract,Full,Crude import dependency FY24,89.6%,core_annual_petroleum_dataset.csv,M/R ratio FY24,VERIFIED,234.262/261.546
+Abstract,Full,LPG import reliance FY24,60.6%,Phase_9B_C_Product_Coverage_Audit.csv,LPG net deficit / consumption,VERIFIED,17.99/29.66 MMT
+Abstract,Full,USD import bill growth,37.9x,core_annual_petroleum_dataset.csv,crude_import_value USD M,VERIFIED,3518 to 133366 USD M
+Abstract,Full,INR import bill growth,74.1x,core_annual_petroleum_dataset.csv,crude_import_value_rs_crore,VERIFIED,14917 to 1105176 Cr
+Introduction,2.1,Energy security 4As framework,Ang et al. 2015,04_literature_review_and_reference_register.csv,LIT-01,VERIFIED,DOI: 10.1016/j.rser.2014.10.064
+Introduction,2.1,Multi-dimensional security framework,Kruyt et al. 2009,04_literature_review_and_reference_register.csv,LIT-02,VERIFIED,DOI: 10.1016/j.enpol.2009.02.006
+Introduction,2.1,Asia-Pacific energy security,Vivoda 2010,04_literature_review_and_reference_register.csv,LIT-03,VERIFIED,DOI: 10.1016/j.enpol.2010.05.028
+Introduction,2.1,Oil vulnerability index,Gupta 2008,04_literature_review_and_reference_register.csv,LIT-04,VERIFIED,DOI: 10.1016/j.enpol.2007.11.011
+Introduction,2.2,India energy security index,Mishra et al. 2023,04_literature_review_and_reference_register.csv,LIT-05,VERIFIED,DOI: 10.1016/j.enpol.2023.113804
+Introduction,2.2,Upstream stagnation,Bhattacharyya 2010,04_literature_review_and_reference_register.csv,LIT-06,VERIFIED,DOI: 10.1016/j.enpol.2010.03.045
+Introduction,2.2,Energy-GDP nexus India,Dash et al. 2018,04_literature_review_and_reference_register.csv,LIT-07,VERIFIED,DOI: 10.1016/j.enpol.2018.04.001
+Introduction,2.2,Downstream liberalisation,Dixit 2020,04_literature_review_and_reference_register.csv,LIT-09,VERIFIED,DOI: 10.1093/jwelb/jwaa035
+Introduction,2.2,India-GCC oil trade,Azhar 2011,04_literature_review_and_reference_register.csv,LIT-10,VERIFIED,DOI: 10.1111/j.1753-0237.2011.00187.x
+Introduction,2.3,LPG PMUY adoption,Kar et al. 2019,04_literature_review_and_reference_register.csv,LIT-17,VERIFIED,DOI: 10.1038/s41560-019-0429-8
+Introduction,2.3,Gendered LPG adoption,Gould & Urpelainen 2018,04_literature_review_and_reference_register.csv,LIT-18,VERIFIED,DOI: 10.1016/j.enpol.2018.07.027
+Introduction,2.3,PMUY review,Gill-Wiehl et al. 2022,04_literature_review_and_reference_register.csv,LIT-19,VERIFIED,DOI: 10.1016/j.enpol.2022.112915
+Introduction,2.3,Fuel switching barriers,Acharya & Sadath 2017,04_literature_review_and_reference_register.csv,LIT-15,VERIFIED,DOI: 10.1016/j.enpol.2016.12.036
+Introduction,2.3,Kerosene subsidy failure,Rao 2012,04_literature_review_and_reference_register.csv,LIT-16,VERIFIED,DOI: 10.1016/j.esd.2011.12.007
+Introduction,2.4,Price-macro shocks India,Kumar 2011,04_literature_review_and_reference_register.csv,LIT-28,VERIFIED,DOI: 10.4236/me.2011.25097
+Introduction,2.4,Crude-rupee dynamics,Kanjilal & Ghosh 2018,04_literature_review_and_reference_register.csv,LIT-24,VERIFIED,DOI: 10.1007/s00181-017-1334-2
+Method,3.1,Dataset SHA-256,9fb5e64c4d0e3402f979f7e83269b0a41034c8530e54fba2fdbd6895b98634ca,core_annual_petroleum_dataset.csv,File hash,VERIFIED,Computed by canonical_regression_master.py
+Method,3.5,HAC lag L=2,Newey-West 1987 L=floor(4*(26/100)^(2/9))=2,Phase_9B_D_Regression_Code_and_Settings.md,HAC specification,VERIFIED,Same L=2 for n=25 and n=26
+Result,4.1,P FY99,32.760 MMT,core_annual_petroleum_dataset.csv,domestic_crude_production_mmt,VERIFIED,Row FY 1998-99
+Result,4.1,P FY24,29.356 MMT,core_annual_petroleum_dataset.csv,domestic_crude_production_mmt,VERIFIED,Row FY 2023-24
+Result,4.1,M FY99,39.808 MMT,core_annual_petroleum_dataset.csv,crude_import_quantity_mmt,VERIFIED,Row FY 1998-99
+Result,4.1,M FY24,234.262 MMT,core_annual_petroleum_dataset.csv,crude_import_quantity_mmt,VERIFIED,Row FY 2023-24
+Result,4.1,R FY99,68.539 MMT,core_annual_petroleum_dataset.csv,refinery_crude_processing_mmt,VERIFIED,Row FY 1998-99
+Result,4.1,R FY24,261.546 MMT,core_annual_petroleum_dataset.csv,refinery_crude_processing_mmt,VERIFIED,Row FY 2023-24
+Result,4.2,MOD-03 beta (P_c),+2.196,Phase_9B_D_Canonical_Model_Results.csv,MOD-03,VERIFIED,HAC SE=6.539; p=0.7399
+Result,4.2,MOD-08 beta (dP),+1.385,Phase_9B_D_Canonical_Model_Results.csv,MOD-08,VERIFIED,HAC SE=1.785; p=0.446
+Result,4.3,MOD-07 beta (dR),+0.9406,Phase_9B_D_Canonical_Model_Results.csv,MOD-07,VERIFIED,HAC SE=0.0219; p<0.0001; R2=0.938
+Result,4.4,PCR FY99,80.7%,core_annual_petroleum_dataset.csv,Q/C ratio,VERIFIED,68.409/84.759
+Result,4.4,PCR FY24,117.84%,Phase_9B_C_Product_Coverage_Audit.csv,Aggregate row,VERIFIED,276.058/234.259
+Result,4.4,Net product exports FY24,+13.90 MMT,Phase_9B_C_Product_Coverage_Audit.csv,Aggregate net export,VERIFIED,
+Result,4.5,HSD production FY24,115.94 MMT,Phase_9B_C_Product_Coverage_Audit.csv,HSD row,VERIFIED,
+Result,4.5,HSD surplus FY24,+28.16 MMT,Phase_9B_C_Product_Coverage_Audit.csv,HSD net export,VERIFIED,
+Result,4.5,MS production FY24,45.11 MMT,Phase_9B_C_Product_Coverage_Audit.csv,MS row,VERIFIED,
+Result,4.5,LPG production FY24,12.78 MMT,Phase_9B_C_Product_Coverage_Audit.csv,LPG row,VERIFIED,
+Result,4.5,LPG consumption FY24,29.66 MMT,Phase_9B_C_Product_Coverage_Audit.csv,LPG row,VERIFIED,
+Result,4.5,LPG deficit FY24,-17.99 MMT,Phase_9B_C_Product_Coverage_Audit.csv,LPG net export,VERIFIED,
+Result,4.5,LPG import reliance,60.6%,Phase_9B_C_Product_Coverage_Audit.csv,LPG row computed,VERIFIED,17.99/29.66
+Result,4.6,USD import bill FY00-01,$14403M,core_annual_petroleum_dataset.csv,crude_import_value,VERIFIED,
+Result,4.6,USD import bill FY23-24,$133366M,core_annual_petroleum_dataset.csv,crude_import_value,VERIFIED,
+Result,4.6,INR import bill FY23-24,INR 1105176 Cr,core_annual_petroleum_dataset.csv,crude_import_value_rs_crore,VERIFIED,
+Result,4.6,Crude price peak FY11-12,$111.89/bbl,core_annual_petroleum_dataset.csv,crude_price,VERIFIED,
+Result,4.7,MOD-05 beta (P_c),-0.8475,Phase_9B_D_Canonical_Model_Results.csv,MOD-05,VERIFIED,HAC SE=0.0709; t=-11.96; p<0.0001
+Result,4.7,MOD-05 beta (R),+0.9976,Phase_9B_D_Canonical_Model_Results.csv,MOD-05,VERIFIED,HAC SE=0.00267; t=+373.2
+Result,4.7,MOD-05 R2,0.9996,Phase_9B_D_Canonical_Model_Results.csv,MOD-05,VERIFIED,
+Result,4.7,MOD-05-FD beta (dP),-1.087,Phase_9B_D_Canonical_Model_Results.csv,MOD-05-FD,VERIFIED,HAC SE=0.1742; t=-6.240; p<0.0001
+Discussion,5.1,Zero unconditional correlation,MOD-03 R2=0.009 p=0.74,Phase_9B_D_Canonical_Model_Results.csv,MOD-03,VERIFIED,
+Discussion,5.3,LPG PCR,43.1%,Phase_9B_C_Product_Coverage_Audit.csv,LPG row,VERIFIED,12.78/29.66
+Discussion,5.4,Currency depreciation wedge,~3.18% p.a.,derived from INR/USD series,implied exchange rate,DERIVED,74.1x INR growth / 37.9x USD growth gap; not independently verified from RBI data
